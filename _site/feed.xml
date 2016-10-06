@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://alfonsodepalencia.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://alfonsodepalencia.github.io//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Alfonso de Palencia</title>
 		<description>Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.</description>
-		<link>http://127.0.0.1:4000/</link>
-		<atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//</link>
+		<atom:link href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>http://127.0.0.1:4000/dummy/dummy-delete-me/</link>
+				<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000/dummy/dummy-delete-me/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-4/</link>
+				<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/</link>
 				<pubDate>Tue, 13 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000/dummy/dummy-delete-me-copy-4/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-5/</link>
+				<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/</link>
 				<pubDate>Mon, 12 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000/dummy/dummy-delete-me-copy-5/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-3/</link>
+				<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/</link>
 				<pubDate>Sun, 11 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000/dummy/dummy-delete-me-copy-3/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-2/</link>
+				<link>https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/</link>
 				<pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000/dummy/dummy-delete-me-copy-2/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/</guid>
 			</item>
 		
 	</channel>
