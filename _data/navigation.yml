@@ -1,0 +1,58 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Inicio
+  url: "/"
+  side: left
+
+- title: "Palencia"
+  url: "/palencia/"
+  side: left
+  dropdown:
+  - title: "Contexto histórico"
+    url: "/contexto/"
+  - title: "Biografía"
+    url: "/biografia/"
+  - title: "Obra"
+    url: "/obra/"
+  - title: "Recursos"
+    url: "/recursos/"
+
+- title: "Proyectos"
+  url: "/proyectos/"
+  side: left
+  dropdown:
+  - title: "Historiografía"
+    url: "#"
+  - title: "Traducciones"
+    url: "#"
+  - title: "Lexicografía"
+    url: "#"
+  - title: "Ficción"
+    url: "#"
+
+- title: "Bibliografía"
+  url: "/bibliografia"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Archivo Blog "
+    url: "/blog/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Equipo"
+  url: "/equipo/"
+  side: right
+
+- title: "Búsqueda"
+  url: "/busqueda/"
+  side: right
+
+- title: "Contacto"
+  url: "/contacto/"
+  side: right

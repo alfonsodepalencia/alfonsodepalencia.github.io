@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/404.html</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/blog/archive/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/atom.xml</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/bibliografia/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/biografia/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/busqueda/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/contacto/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/contexto/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/equipo/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/feed.xml</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/humans.txt</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/blog/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/obra/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/palencia/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/equipo/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/recursos/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/redirect-page/</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/robots.txt</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/sitemap.xml</loc>
+	
+		<lastmod>2016-10-06T12:50:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+
+<!-- Posts: 5 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/dummy/dummy-delete-me/</loc>
+	
+		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-4/</loc>
+	
+		<lastmod>2015-10-13T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-5/</loc>
+	
+		<lastmod>2015-10-12T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-3/</loc>
+	
+		<lastmod>2015-10-11T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://127.0.0.1:4000/dummy/dummy-delete-me-copy-2/</loc>
+	
+		<lastmod>2015-10-10T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>
