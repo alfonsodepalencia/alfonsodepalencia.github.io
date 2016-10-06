@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//assets/css/styles_feeling_responsive.css" />
-	<script src="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://alfonsodepalencia.github.io//assets/css/styles_feeling_responsive.css" />
+	<script src="https://alfonsodepalencia.github.io//assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar." />
-	<meta property="og:url" content="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io///assets/xslt/atom.xslt" />
+	<meta property="og:url" content="https://alfonsodepalencia.github.io///assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Alfonso de Palencia" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//humans.txt" />
+	<link type="text/plain" rel="author" href="https://alfonsodepalencia.github.io//humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io/" class="icon-tree"> Alfonso de Palencia</a></h1>
+      <h1 class="show-for-small-only"><a href="https://alfonsodepalencia.github.io/" class="icon-tree"> Alfonso de Palencia</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -182,7 +182,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//equipo/">Equipo</a></li>
+              <li><a href="https://alfonsodepalencia.github.io//equipo/">Equipo</a></li>
 
             
             
@@ -196,7 +196,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//busqueda/">Búsqueda</a></li>
+              <li><a href="https://alfonsodepalencia.github.io//busqueda/">Búsqueda</a></li>
 
             
             
@@ -210,7 +210,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//contacto/">Contacto</a></li>
+              <li><a href="https://alfonsodepalencia.github.io//contacto/">Contacto</a></li>
 
             
             
@@ -229,7 +229,7 @@
 
             
             
-              <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//">Inicio</a></li>
+              <li><a href="https://alfonsodepalencia.github.io//">Inicio</a></li>
               <li class="divider"></li>
 
             
@@ -246,29 +246,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//palencia/">Palencia</a>
+                <a href="https://alfonsodepalencia.github.io//palencia/">Palencia</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//contexto/">Contexto histórico</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io//contexto/">Contexto histórico</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//biografia/">Biografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io//biografia/">Biografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//obra/">Obra</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io//obra/">Obra</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//recursos/">Recursos</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io//recursos/">Recursos</a></li>
                     
                   </ul>
                   
@@ -287,29 +287,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//proyectos/">Proyectos</a>
+                <a href="https://alfonsodepalencia.github.io//proyectos/">Proyectos</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io/#">Historiografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/#">Historiografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io/#">Traducciones</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/#">Traducciones</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io/#">Lexicografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/#">Lexicografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io/#">Ficción</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/#">Ficción</a></li>
                     
                   </ul>
                   
@@ -326,7 +326,7 @@
 
             
             
-              <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//bibliografia">Bibliografía</a></li>
+              <li><a href="https://alfonsodepalencia.github.io//bibliografia">Bibliografía</a></li>
               <li class="divider"></li>
 
             
@@ -343,14 +343,14 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//blog/">Blog</a>
+                <a href="https://alfonsodepalencia.github.io//blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//blog/archive/">Archivo Blog </a></li>
+                      <li><a href="https://alfonsodepalencia.github.io//blog/archive/">Archivo Blog </a></li>
                     
                   </ul>
                   
@@ -389,7 +389,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="https://alfonsodepalencia.github.io/" title="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
-				<img src="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//assets/img/logo2.jpg" alt="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
+				<img src="https://alfonsodepalencia.github.io//assets/img/logo2.jpg" alt="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -467,7 +467,7 @@
 
             <p class="shadow-black">
               Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.
-              <a href="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//info/">More ›</a>
+              <a href="https://alfonsodepalencia.github.io//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -491,27 +491,27 @@
               
                 
                   <li >
-                    <a href="https://alfonsodepalencia.github.io/"  title=""></a>
+                    <a href=""  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://alfonsodepalencia.github.io//contact/"  title="Contact">Contact</a>
+                    <a href="/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://alfonsodepalencia.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://alfonsodepalencia.github.io//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://alfonsodepalencia.github.io//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -537,7 +537,7 @@
             
               
                 <li >
-                  <a href="https://alfonsodepalencia.github.io/"  title=""></a>
+                  <a href=""  title=""></a>
                 </li>
             
               
@@ -595,7 +595,7 @@
 		
 
 
-<script src="https://alfonsodepalencia.github.io/https://alfonsodepalencia.github.io//assets/js/javascript.min.js"></script>
+<script src="https://alfonsodepalencia.github.io//assets/js/javascript.min.js"></script>
 
 
 
