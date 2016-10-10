@@ -19,12 +19,12 @@ slogan: "Un espacio dedicado a Alfonso de Palencia"
 description: "Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar."
 
 # Main author of the website
-# See > authors.yml
+See > authors.yml
 author: Susanna Alles Torrent
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://alfonsodepalencia.github.io/'
+url: 'https://alfonsodepalencia.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -70,7 +70,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: "es"
 
 
 # Used › default.html front-matter and compress.html

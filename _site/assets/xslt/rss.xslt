@@ -6,11 +6,11 @@
 	<html>
 	<head>
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-			<meta charset="utf-8" />
+			<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="https://alfonsodepalencia.github.io//assets/css/styles_feeling_responsive.css" />
-	<script src="https://alfonsodepalencia.github.io//assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://alfonsodepalencia.github.io/assets/css/styles_feeling_responsive.css" />
+	<script src="https://alfonsodepalencia.github.io/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -36,67 +36,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="https://alfonsodepalencia.github.io//assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="https://alfonsodepalencia.github.io/assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="https://alfonsodepalencia.github.io//assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="https://alfonsodepalencia.github.io/assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="https://alfonsodepalencia.github.io//assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="https://alfonsodepalencia.github.io/assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="https://alfonsodepalencia.github.io//assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="https://alfonsodepalencia.github.io/assets/img/msapplication_tileimage.png" />
 
 
 
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
 	<meta property="og:description" content="Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar." />
-	<meta property="og:url" content="https://alfonsodepalencia.github.io///assets/xslt/rss.xslt" />
+	<meta property="og:url" content="https://alfonsodepalencia.github.io//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Alfonso de Palencia" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="https://alfonsodepalencia.github.io//humans.txt" />
+	<link type="text/plain" rel="author" href="https://alfonsodepalencia.github.io/humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://alfonsodepalencia.github.io/" class="icon-tree"> Alfonso de Palencia</a></h1>
+      <h1 class="show-for-small-only"><a href="https://alfonsodepalencia.github.io" class="icon-tree"> Alfonso de Palencia</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -182,7 +182,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io//equipo/">Equipo</a></li>
+              <li><a href="https://alfonsodepalencia.github.io/equipo/">Equipo</a></li>
 
             
             
@@ -196,7 +196,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io//busqueda/">Búsqueda</a></li>
+              <li><a href="https://alfonsodepalencia.github.io/busqueda/">Búsqueda</a></li>
 
             
             
@@ -210,7 +210,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://alfonsodepalencia.github.io//contacto/">Contacto</a></li>
+              <li><a href="https://alfonsodepalencia.github.io/contacto/">Contacto</a></li>
 
             
             
@@ -229,7 +229,7 @@
 
             
             
-              <li><a href="https://alfonsodepalencia.github.io//">Inicio</a></li>
+              <li><a href="https://alfonsodepalencia.github.io/">Inicio</a></li>
               <li class="divider"></li>
 
             
@@ -246,29 +246,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io//palencia/">Palencia</a>
+                <a href="https://alfonsodepalencia.github.io/palencia/">Palencia</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io//contexto/">Contexto histórico</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/contexto/">Contexto histórico</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io//biografia/">Biografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/biografia/">Biografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io//obra/">Obra</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/obra/">Obra</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io//recursos/">Recursos</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/recursos/">Recursos</a></li>
                     
                   </ul>
                   
@@ -287,29 +287,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io//proyectos/">Proyectos</a>
+                <a href="https://alfonsodepalencia.github.io/proyectos/">Proyectos</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/#">Historiografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io#">Historiografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/#">Traducciones</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io#">Traducciones</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/#">Lexicografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io#">Lexicografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/#">Ficción</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io#">Ficción</a></li>
                     
                   </ul>
                   
@@ -326,7 +326,7 @@
 
             
             
-              <li><a href="https://alfonsodepalencia.github.io//bibliografia">Bibliografía</a></li>
+              <li><a href="https://alfonsodepalencia.github.io/bibliografia">Bibliografía</a></li>
               <li class="divider"></li>
 
             
@@ -343,14 +343,14 @@
             
 
               <li class="has-dropdown">
-                <a href="https://alfonsodepalencia.github.io//blog/">Blog</a>
+                <a href="https://alfonsodepalencia.github.io/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io//blog/archive/">Archivo Blog </a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/blog/archive/">Archivo Blog </a></li>
                     
                   </ul>
                   
@@ -388,8 +388,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://alfonsodepalencia.github.io/" title="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
-				<img src="https://alfonsodepalencia.github.io//assets/img/logo2.jpg" alt="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
+			<a id="logo" href="https://alfonsodepalencia.github.io" title="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
+				<img src="https://alfonsodepalencia.github.io/assets/img/logo2.jpg" alt="Alfonso de Palencia – Un espacio dedicado a Alfonso de Palencia">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -463,11 +463,11 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+            <h5 class="shadow-black">Sobre este sitio</h5>
 
             <p class="shadow-black">
               Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.
-              <a href="https://alfonsodepalencia.github.io//info/">More ›</a>
+              <a href="https://alfonsodepalencia.github.io/info/">Más ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -475,11 +475,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
               
-                <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
+                <h5 class="shadow-black">Infos</h5>
               
             
               
@@ -496,17 +492,7 @@
               
                 
                   <li >
-                    <a href="/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="/contacto/"  title="Contacto">Contacto</a>
                   </li>
               
                 
@@ -521,7 +507,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
+                <h5 class="shadow-black">Diseño</h5>
               
             
               
@@ -542,7 +528,7 @@
             
               
                 <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                  <a href="https://phlow.github.io/feeling-responsive/" target="_blank"  title="Feeling Responsive">Feeling Responsive Template</a>
                 </li>
             
               
@@ -551,13 +537,13 @@
                 </li>
             
               
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
+                <li class="services-newsletter" >
+                  <a href="https://jekyllrb.com/" target="_blank"  title="Generated with Jekyll">Generated with Jekyll</a>
                 </li>
             
               
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
+                <li class="services-newsletter" >
+                  <a href="https://pages.github.com/" target="_blank"  title="Hosted by GitHub Pages">Hosted by GitHub Pages</a>
                 </li>
             
             </ul>
@@ -571,20 +557,18 @@
         <nav class="row">
           <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
             <p>
-              Leave some &hearts;
-              for&nbsp;
-              <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
+              <a href="http://susannalles.github.io" alt="Susanna Allés Torrent">Susanna Allés Torrent</a> &hearts;
+              
+              
             </p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             
-              <li><a href="http://github.com/" target="_blank" class="icon-github" title=""></a></li>
+              <li><a href="https://github.com/alfonsodepalencia" target="_blank" class="icon-github" title="All files in GitHub"></a></li>
             
-              <li><a href="http://www.youtube.com/" target="_blank" class="icon-youtube" title=""></a></li>
-            
-              <li><a href="http://twitter.com/" target="_blank" class="icon-twitter" title=""></a></li>
+              <li><a href="https://twitter.com/sallesto" target="_blank" class="icon-twitter" title=""></a></li>
             
             </ul>
           </section>
@@ -595,7 +579,7 @@
 		
 
 
-<script src="https://alfonsodepalencia.github.io//assets/js/javascript.min.js"></script>
+<script src="https://alfonsodepalencia.github.io/assets/js/javascript.min.js"></script>
 
 
 

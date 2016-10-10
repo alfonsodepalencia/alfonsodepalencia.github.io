@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://alfonsodepalencia.github.io//</id>
+	<id>https://alfonsodepalencia.github.io/</id>
 	<title>Alfonso de Palencia</title>
-	<updated>2016-10-06T13:01:26+02:00</updated>
+	<updated>2016-10-10T20:18:38+02:00</updated>
 
 	<subtitle>Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.</subtitle>
 
@@ -19,125 +19,118 @@
 		</author>
 	
 
-	<link href="https://alfonsodepalencia.github.io//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://alfonsodepalencia.github.io//" rel="alternate" type="text/html" />
+	<link href="https://alfonsodepalencia.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://alfonsodepalencia.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io//dummy/dummy-delete-me/</id>
-			<title>You can delete this file</title>
-			<link href="https://alfonsodepalencia.github.io//dummy/dummy-delete-me/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-15T00:00:00+02:00</updated>
+			<id>https://alfonsodepalencia.github.io/proyecto/Alles-apertura-blog/</id>
+			<title>Iniciamos el Proyecto Palencia</title>
+			<link href="https://alfonsodepalencia.github.io/proyecto/Alles-apertura-blog/" rel="alternate" type="text/html" title="Iniciamos el Proyecto Palencia" />
+			<updated>2016-10-10T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io//dummy/dummy-delete-me/"></content>
+			<summary>Abrimos este espacio para compartir los materiales sobre Alfonso de Palencia...</summary>
+			<content type="html" xml:base="https://alfonsodepalencia.github.io/proyecto/Alles-apertura-blog/"></content>
 
 			
-				<category term="dummy" />
+				<category term="proyecto" />
 			
 			
-				<category term="dummy" />
+				<category term="proyecto" />
 			
 
-			<published>2015-10-15T00:00:00+02:00</published>
+			<published>2016-10-10T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/</id>
-			<title>You can delete this file</title>
-			<link href="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-13T00:00:00+02:00</updated>
+			<id>https://alfonsodepalencia.github.io/evento/evento-Lyon/</id>
+			<title>Alfonso de Palencia: Travaux en cours et perspectives</title>
+			<link href="https://alfonsodepalencia.github.io/evento/evento-Lyon/" rel="alternate" type="text/html" title="Alfonso de Palencia: Travaux en cours et perspectives" />
+			<updated>2016-06-09T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/"></content>
+			<summary>Les Gesta Hispaniensia du castillan Alfonso de Palencia (1423-1492), sont considérés par les spécialistes du xv e siècle comme une source historique de premier plan. Jusqu’à une date récente, cependant, seules les première et quatrième Décades « de son temps » bénéficiaient d’éditions scientifiques bilingues latin-castillan. </summary>
+			<content type="html" xml:base="https://alfonsodepalencia.github.io/evento/evento-Lyon/"></content>
 
 			
-				<category term="dummy" />
+				<category term="evento" />
 			
 			
-				<category term="dummy" />
+				<category term="evento" />
 			
 
-			<published>2015-10-13T00:00:00+02:00</published>
+			<published>2016-06-09T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/</id>
-			<title>You can delete this file</title>
-			<link href="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-12T00:00:00+02:00</updated>
+			<id>https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/</id>
+			<title>Descubren la Cuarta Década de Alfonso de Palencia</title>
+			<link href="https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/" rel="alternate" type="text/html" title="Descubren la Cuarta Década de Alfonso de Palencia" />
+			<updated>2016-04-11T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/"></content>
+			<content type="html" xml:base="https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/"></content>
 
 			
-				<category term="dummy" />
+				<category term="estudios" />
 			
 			
-				<category term="dummy" />
+				<category term="Décadas" />
 			
 
-			<published>2015-10-12T00:00:00+02:00</published>
+			<published>2016-04-11T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/</id>
-			<title>You can delete this file</title>
-			<link href="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-11T00:00:00+02:00</updated>
+			<id>https://alfonsodepalencia.github.io/dummy/libro-Brepols/</id>
+			<title>La traducción Palentina de las Vitae Hannibalis et Scipionis</title>
+			<link href="https://alfonsodepalencia.github.io/dummy/libro-Brepols/" rel="alternate" type="text/html" title="La traducción Palentina de las Vitae Hannibalis et Scipionis" />
+			<updated>2015-12-12T00:00:00+01:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/"></content>
+			<summary>Las Vitae Hannibalis et Scipionis de Donato Acciaiuoli traducidas por el cronista Alfonso de Palencia (Sevilla, 1491)
+Este volumen ofrece un texto, inédito hasta este momento, sobre dos fi guras emblemáticas de la Antigüedad clásica: las de Aníbal y Escipión. La obra original, con el título de Vitae Hannibalis et Scipionis, fue escrita hacia 1467 en latín por Donato Acciaiuoli, uno de los grandes humanistas italianos en la Florencia de los Medici, mientras que la traducción castellana se realizó unos años más tarde (Sevilla, 1491), a manos del que fuera cronista de los Reyes Católicos, Alfonso de Palencia. El punto central de nuestra investigación ha sido el texto castellano y el método de traducción utilizado por el traductor castellano. Así mismo, ofrecemos, por primera vez, la edición de la traducción palentina acompañada del texto original latino utilizado (Venecia, 1478). Las Vitae Hannibalis et Scipionis han tenido una transmisión textual muy particular, pues desde 1470 entraron a formar parte de la edición príncipe de las traducciones latinas, realizadas por humanistas italianos, de las Vidas paralelas de Plutarco y no se desprendieron del corpus hasta bien entrado el siglo XVI; su simbiosis con esta colección de vidas ilustres fue tal que en múltiples ocasiones se confundieron y pasaron camufl adas bajo la autoría del autor de Queronea. Tal fue el caso de Alfonso de Palencia que, creyendo traducir al historiador griego, trasladó una obra maestra del humanismo italiano que reconstruye una nueva imagen de dos de los más grandes generales de la historia antigua.</summary>
+			<content type="html" xml:base="https://alfonsodepalencia.github.io/dummy/libro-Brepols/"></content>
 
 			
 				<category term="dummy" />
@@ -146,38 +139,7 @@
 				<category term="dummy" />
 			
 
-			<published>2015-10-11T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/</id>
-			<title>You can delete this file</title>
-			<link href="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-10T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/"></content>
-
-			
-				<category term="dummy" />
-			
-			
-				<category term="dummy" />
-			
-
-			<published>2015-10-10T00:00:00+02:00</published>
+			<published>2015-12-12T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

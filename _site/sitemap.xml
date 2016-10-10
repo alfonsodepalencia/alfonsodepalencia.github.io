@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//404.html</loc>
+	<loc>https://alfonsodepalencia.github.io/404.html</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//blog/archive/</loc>
+	<loc>https://alfonsodepalencia.github.io/blog/archive/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//atom.xml</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//bibliografia/</loc>
+	<loc>https://alfonsodepalencia.github.io/atom.xml</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/bibliografia/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//biografia/</loc>
+	<loc>https://alfonsodepalencia.github.io/biografia/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//busqueda/</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//contacto/</loc>
+	<loc>https://alfonsodepalencia.github.io/busqueda/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//contexto/</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//equipo/</loc>
+	<loc>https://alfonsodepalencia.github.io/contacto/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//feed.xml</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//humans.txt</loc>
+	<loc>https://alfonsodepalencia.github.io/contexto/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//blog/</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//</loc>
+	<loc>https://alfonsodepalencia.github.io/equipo/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//obra/</loc>
+	<loc>https://alfonsodepalencia.github.io/feed.xml</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//palencia/</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,24 +159,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//equipo/</loc>
+	<loc>https://alfonsodepalencia.github.io/humans.txt</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//recursos/</loc>
-	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,9 +174,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//redirect-page/</loc>
+	<loc>https://alfonsodepalencia.github.io/blog/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -294,9 +189,114 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//robots.txt</loc>
+	<loc>https://alfonsodepalencia.github.io/</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/obra/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/palencia/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/equipo/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/recursos/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/redirect-page/</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://alfonsodepalencia.github.io/robots.txt</loc>
+	
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -313,9 +313,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//sitemap.xml</loc>
+	<loc>https://alfonsodepalencia.github.io/sitemap.xml</loc>
 	
-		<lastmod>2016-10-06T13:01:26+02:00</lastmod>
+		<lastmod>2016-10-10T20:18:38+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -329,13 +329,13 @@
 	
 
 
-<!-- Posts: 5 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 4 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//dummy/dummy-delete-me/</loc>
+	<loc>https://alfonsodepalencia.github.io/proyecto/Alles-apertura-blog/</loc>
 	
-		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
+		<lastmod>2016-10-10T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -348,24 +348,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-4/</loc>
+	<loc>https://alfonsodepalencia.github.io/evento/evento-Lyon/</loc>
 	
-		<lastmod>2015-10-13T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-5/</loc>
-	
-		<lastmod>2015-10-12T00:00:00+02:00</lastmod>
+		<lastmod>2016-06-09T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -378,9 +363,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-3/</loc>
+	<loc>https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/</loc>
 	
-		<lastmod>2015-10-11T00:00:00+02:00</lastmod>
+		<lastmod>2016-04-11T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -393,9 +378,9 @@
 
 	
 	<url>
-	<loc>https://alfonsodepalencia.github.io//dummy/dummy-delete-me-copy-2/</loc>
+	<loc>https://alfonsodepalencia.github.io/dummy/libro-Brepols/</loc>
 	
-		<lastmod>2015-10-10T00:00:00+02:00</lastmod>
+		<lastmod>2015-12-12T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

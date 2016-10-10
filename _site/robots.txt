@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://alfonsodepalencia.github.io//sitemap.xml
+Sitemap: https://alfonsodepalencia.github.io/sitemap.xml

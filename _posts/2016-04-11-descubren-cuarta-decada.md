@@ -3,13 +3,13 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
+subheadline: "Susanna Allés"
+title: "Descubren la Cuarta Década de Alfonso de Palencia"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 categories:
-  - dummy
+  - estudios
 tags:
-  - dummy
+  - Décadas
 #
 # Styling
 #
