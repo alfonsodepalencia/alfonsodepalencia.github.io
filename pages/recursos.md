@@ -10,6 +10,7 @@ permalink: /recursos/
 
 * [Palencia Alfonso de (1423-1492)](http://datos.bne.es/persona/XX908680.html), Datos·BNE·ES Beta, Biblioteca Nacional de España.
 * [Palencia, Alfonso de (1423-1492)](http://www.cervantesvirtual.com/FichaAutor.html?Ref=148), Biblioteca Virtual Miguel de Cervantes
+* [Alfonso de Palencia (1424-1492](http://www.mcnbiografias.com/app-bio/do/show?key=alfonso-de-palencia), La Web de las biografías. 
 
 
 ### Glossario bilingües

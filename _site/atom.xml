@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://alfonsodepalencia.github.io/</id>
 	<title>Alfonso de Palencia</title>
-	<updated>2016-10-10T20:38:22+02:00</updated>
+	<updated>2016-10-13T13:44:46+02:00</updated>
 
 	<subtitle>Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.</subtitle>
 
@@ -24,6 +24,46 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/</id>
+			<title>Ultimas publicaciones y eventos sobre Alfonso de Palencia</title>
+			<link href="https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/" rel="alternate" type="text/html" title="Ultimas publicaciones y eventos sobre Alfonso de Palencia" />
+			<updated>2016-10-11T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>A lo largo de estos últimos años han visto a la luz diversas publicaciones sobre A. de Palencia y se realizaron unas jornadas en Lyon. </summary>
+			<content type="html" xml:base="https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/">&lt;p&gt;Alfonso de Palencia: Travaux en cours et perspectives
+ [1]: #
+ [2]: #
+ [3]: #
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #&lt;/p&gt;
+</content>
+
+			
+				<category term="evento" />
+			
+			
+				<category term="evento" />
+			
+
+			<published>2016-10-11T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://alfonsodepalencia.github.io/proyecto/Alles-apertura-blog/</id>
@@ -52,94 +92,6 @@
 			
 
 			<published>2016-10-10T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://alfonsodepalencia.github.io/evento/evento-Lyon/</id>
-			<title>Alfonso de Palencia: Travaux en cours et perspectives</title>
-			<link href="https://alfonsodepalencia.github.io/evento/evento-Lyon/" rel="alternate" type="text/html" title="Alfonso de Palencia: Travaux en cours et perspectives" />
-			<updated>2016-06-09T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Les Gesta Hispaniensia du castillan Alfonso de Palencia (1423-1492), sont considérés par les spécialistes du xv e siècle comme une source historique de premier plan. Jusqu’à une date récente, cependant, seules les première et quatrième Décades « de son temps » bénéficiaient d’éditions scientifiques bilingues latin-castillan. </summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io/evento/evento-Lyon/"></content>
-
-			
-				<category term="evento" />
-			
-			
-				<category term="evento" />
-			
-
-			<published>2016-06-09T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/</id>
-			<title>Descubren la Cuarta Década de Alfonso de Palencia</title>
-			<link href="https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/" rel="alternate" type="text/html" title="Descubren la Cuarta Década de Alfonso de Palencia" />
-			<updated>2016-04-11T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io/estudios/descubren-cuarta-decada/"></content>
-
-			
-				<category term="estudios" />
-			
-			
-				<category term="Décadas" />
-			
-
-			<published>2016-04-11T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://alfonsodepalencia.github.io/dummy/libro-Brepols/</id>
-			<title>La traducción Palentina de las Vitae Hannibalis et Scipionis</title>
-			<link href="https://alfonsodepalencia.github.io/dummy/libro-Brepols/" rel="alternate" type="text/html" title="La traducción Palentina de las Vitae Hannibalis et Scipionis" />
-			<updated>2015-12-12T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Las Vitae Hannibalis et Scipionis de Donato Acciaiuoli traducidas por el cronista Alfonso de Palencia (Sevilla, 1491)
-Este volumen ofrece un texto, inédito hasta este momento, sobre dos fi guras emblemáticas de la Antigüedad clásica: las de Aníbal y Escipión. La obra original, con el título de Vitae Hannibalis et Scipionis, fue escrita hacia 1467 en latín por Donato Acciaiuoli, uno de los grandes humanistas italianos en la Florencia de los Medici, mientras que la traducción castellana se realizó unos años más tarde (Sevilla, 1491), a manos del que fuera cronista de los Reyes Católicos, Alfonso de Palencia. El punto central de nuestra investigación ha sido el texto castellano y el método de traducción utilizado por el traductor castellano. Así mismo, ofrecemos, por primera vez, la edición de la traducción palentina acompañada del texto original latino utilizado (Venecia, 1478). Las Vitae Hannibalis et Scipionis han tenido una transmisión textual muy particular, pues desde 1470 entraron a formar parte de la edición príncipe de las traducciones latinas, realizadas por humanistas italianos, de las Vidas paralelas de Plutarco y no se desprendieron del corpus hasta bien entrado el siglo XVI; su simbiosis con esta colección de vidas ilustres fue tal que en múltiples ocasiones se confundieron y pasaron camufl adas bajo la autoría del autor de Queronea. Tal fue el caso de Alfonso de Palencia que, creyendo traducir al historiador griego, trasladó una obra maestra del humanismo italiano que reconstruye una nueva imagen de dos de los más grandes generales de la historia antigua.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io/dummy/libro-Brepols/"></content>
-
-			
-				<category term="dummy" />
-			
-			
-				<category term="dummy" />
-			
-
-			<published>2015-12-12T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

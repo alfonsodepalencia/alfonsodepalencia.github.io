@@ -626,22 +626,30 @@ Ediciones: Caselles (1991:249-274); La Fuente y Alcántara (1868:47-67).
 
 Alemany Ferrer, Rafael. «En torno a los primeros años de formación y estancia en Italia del humanista castellano Alonso de Palencia», *Revista de Ciencias Humanas*, Alicante (1978) 61-72.
 
-Alemany Ferrer, Rafael. «Acerca del supuesto origen converso de Alfonso de Palencia», *Estudi General*, Revista del Col·legi Universitari de Girona, núm. 1, vol. II (1981) 35-40.
+Alemany Ferrer, Rafael. [«Acerca del supuesto origen converso de Alfonso de Palencia»](http://dugi-doc.udg.edu/bitstream/handle/10256/5524/43537.pdf?sequence=1), *Estudi General*, Revista del Col·legi Universitari de Girona, núm. 1, vol. II (1981) 35-40.
 
-Alemany Ferrer, Rafael. «Dimensión humanística de una obra menor de A. de Palencia: El
-Tratado de la Perfección del Triunfo Militar», *Anales de literatura española de la Universidad de Alicante I*, 1982 (1983) 7-20.
+Alemany Ferrer, Rafael. [«Dimensión humanística de una obra menor de A. de Palencia: El
+Tratado de la Perfección del Triunfo Militar»](https://rua.ua.es/dspace/bitstream/10045/7253/1/ALE_01_01.pdf), *Anales de literatura española de la Universidad de Alicante I*, 1982 (1983) 7-20.
+
+Alemany Ferrer, Rafael. [«La aportación de Alfonso de Palencia a la historiografía peninsular del sigle XV»](https://rua.ua.es/dspace/bitstream/10045/7175/1/HM_02_10.pdf), *Anales de la Universidad de Alicante. Historia Medieval*, 2 (1983) 187-205.
 
 Alemany Ferrer, Rafael y Robert Tate, eds. Alfonso de Palencia, *Epístolas Latinas* (Barcelona: Universidad Autónoma, 1982).
 
-Alemany Ferrer, Rafael. «La aportación de Alfonso de Palencia a la historiografía peninsular del siglo XV», *Anales de la Universidad de Alicante*, 2 (1983) 187-205.
+Allés Torrent, Susanna. [«Implicaciones intelectuales y metodológicas en la selección de los autores y la terminología traductora castellana del siglo XV»](http://academiccommons.columbia.edu/catalog/ac%3A189050), *Anuario Estudios Medievales* 45.1 (2015) 1-30
 
-<a style="color:red">Allés Torrent, Susanna.</a> 
+Allés Torrent, Susanna.[«Latinismos, palabras patrimoniales y soluciones perifrásticas en la práctica traductora del siglo XV: el caso de Alfonso de Palencia»](http://academiccommons.columbia.edu/catalog/ac%3A189044), *ReCherches. Culture et Histoire dans l’Espace Roman* 14 (2015) 85-104.
+
+Allés Torrent, Susanna. [«Il genero biografico degli umanisti e la ricezione nella Penisola Iberica nel Quattrocento: appunti per una revisione»](http://www.raco.cat/index.php/QuadernsItalia/article/view/285161), *Quaderns d’Italià* 18 (2013) 203-214.
+
+Allés Torrent, Susanna. [«Alfonso de Palencia y el humanismo italiano»](http://revistas.ucm.es/index.php/CFIT/article/view/41296), *Cuadernos de Filología Italiana* 19 (2013) 107-130.
+
+Allés Torrent, Susanna. [«Alfonso de Palencia y la traducción de las Vidas de Plutarco (nuevos datos en torno al texto de partida)»](http://revistas.ucm.es/fll/11319062/articulos/CFCL0808220099A.PDF), *Cuadernos de Filología Clásica. Estudios latinos* 28. 2 (2008) 99-124.
 
 Altamira, Rafael. «Crónica de Enrique IV, traducción de Antonio Paz y Melia», *La Lectura*, t. II, año V (1905) 420-421.
 
-Álvarez Delgado, Juan. «Alonso de Palencia (1423-1492) y la Historia de Canarias», *Anuario de Estudios Atlánticos*, Las Palmas, Patronato de la 'Casa de Colón', núm. 9 (1963) 51-79.
+Álvarez Delgado, Juan. [«Alonso de Palencia (1423-1492) y la Historia de Canarias»](http://anuariosatlanticos.casadecolon.com/index.php/aea/article/view/117/117), *Anuario de Estudios Atlánticos*, Las Palmas, Patronato de la 'Casa de Colón', núm. 9 (1963) 51-79.
 
-Amador de los Ríos, José. *Historia Crítica de la Literatura Española* (Madrid: Imprenta de Joaquín Muñoz, 1865) t. 7, 150-171.
+Amador de los Ríos, José. [*Historia Crítica de la Literatura Española*](http://www.cervantesvirtual.com/obra/historia-critica-de-la-literatura-espanola-tomo-vii--0/) (Madrid: Imprenta de Joaquín Muñoz, 1865) t. 7, 150-171.
 
 Arancón, A. M. *Antología de Humanistas Españoles* (Madrid: Editora Nacional, 1980) 115-161.
 
@@ -665,7 +673,7 @@ Cirot, Georges. [«Reseña crítica de Antonio Paz y Melia: *El Cronista Alfonso
 
 *Colección Diplomática de la Crónica de Don Enrique IV*, (Madrid: Academia de la Historia, 1835-1837) 712 págs. BNM R-1748.
 
-Della Torre, Arnaldo. *Storia dell'Accademia Platónica di Firenze* (Florencia: Tip. G. Carnesecchi, 1902).
+Della Torre, Arnaldo. [*Storia dell'Accademia Platónica di Firenze*](https://archive.org/details/storiadellaccad00torrgoog) (Florencia: Tip. G. Carnesecchi, 1902).
 
 Duran Barceló, Javier. «Obra, poética, retórica, lexicografía y filosofía moral de Alfonso de Palencia. Ediciones críticas del *De Perfectione militaris triumphi* y *La perfeción del triunfo*» (Ph. D. Dissertation, University of Michigan, 1992).
 
@@ -679,7 +687,9 @@ Triumphi* de Alfonso de Palencia», en *Actas del I Coloquio Internacional de la
 
 Duran Barceló, Javier. «La poética de la fábula en el tratado *De perfectione militaris triumphi* (1458) de Alfonso de Palencia», en J. Villegas, ed., *Actas Irvine-92. Asociación Internacional de Hispanistas* (Universidad de California, Irvine, 1994) vol. I, 155-162.
 
-Duran Barceló, Javier. *Alfonso de Palencia, De Perfectione Militaris Triumphi, La Perfeçión del Triunfo*, edición y estudio (Salamanca: Ediciones Universidad de Salamanca, Textos Recuperados, 1995).
+Duran Barceló, Javier. [*Alfonso de Palencia, De Perfectione Militaris Triumphi, La Perfeçión del Triunfo*](https://books.google.es/books?id=HpR0yduI9soC&pg=PA45&lpg=PA45&dq=Humanismo+y+Caballer%C3%ADa+en+el+tratado+De+Perfectione+Militaris+Triumphi+de+Alfonso+de+Palencia&source=bl&ots=Fxl9HpAZ4B&sig=WcehTsSWmNSqFQ5Mp_eKWcgErSg&hl=en&sa=X&ved=0ahUKEwikzfzT3tPPAhXCuRoKHWNoBuAQ6AEIITAA#v=onepage&q=Humanismo%20y%20Caballer%C3%ADa%20en%20el%20tratado%20De%20Perfectione%20Militaris%20Triumphi%20de%20Alfonso%20de%20Palencia&f=false), edición y estudio (Salamanca: Ediciones Universidad de Salamanca, Textos Recuperados, 1995).
+
+Duran Barceló, Javier. [«El ciceronianismo de Alfonso de Palencia»](https://books.google.es/books?id=9i7uFac3t-MC&pg=PA1247&lpg=PA1247&dq=El+ciceronianismo+de+Alfonso+de+Palencia&source=bl&ots=V7lGLJrLXw&sig=UqPC5161DJbErinqHwgICdXDLYI&hl=en&sa=X&ved=0ahUKEwiSx6OZ39PPAhUFrRoKHVdRAVwQ6AEIPjAE#v=onepage&q=El%20ciceronianismo%20de%20Alfonso%20de%20Palencia&f=false), en *Humanismo y pervivencia del mundo clásico*, IV.3 (2009) 1247-1261.
 
 Dutton, B. *El Cancionero del siglo XV, c. 1360-1520*. (Universidad de Salamanca, Biblioteca española del siglo XV, 1991) vol. VII, n° 4119.
 
@@ -708,6 +718,8 @@ Gregorio de Andrés, «Un erudito y bibliófilo español olvidado: Juan Lucas Co
 Hill, John M. *Universal Vocabulario de Alfonso de Palencia: Registro de voces españolas internas* (Madrid: Real Academia Española, 1957).
 
 Holland, Wilhem L. *Zur Geschichte Catiliens. Bruchstücke aus der Chrönik der Alonso de Palencia* (Tübingen: Ludw. Friedr. Fues., 1850).
+
+Iglesias, Antonio Antelo. [«Alfonso de Palencia: historiografía y humanismo en la Castilla del siglo XV»](http://revistas.uned.es/index.php/ETFIII/article/viewFile/3515/3372), *Espacio, Tiempo y Forma, Serie III, Hº Medieval*, t. 3, 1990 21-40. 
 
 Lafuente y Alcántara, E., ed., *Relaciones de algunos sucesos de los últimos tiempos del reino de Granada* (Madrid: Sociedad de Bibliófilos Españoles, 1868) 47-67.
 
@@ -766,7 +778,7 @@ l'utilisation d'un personnage», en *Mélanges a la mémoire d'André Joucla-Rua
 
 Pardo, Madeleine. [«La Batalla campal de los perros contra los lobos»](http://www.persee.fr/doc/cehm_0396-9045_2006_hos_17_1_1992), Annexes des Cahiers d'étudies hispaniques médiévales, 17 (2006) 237-259. 
 
-Paz y Melia, Antonio, ed. *Crónica de Enrique IV escrita en latín por Alfonso de Palencia*, traducción castellana (Madrid: Tip. de la Revista de Archivos, 1904-1908) Colección de escritores castellanos, vols. 126, 127, 130, y 134.
+Paz y Melia, Antonio, ed. [*Crónica de Enrique IV escrita en latín por Alfonso de Palencia*](https://bibliotecadigital.jcyl.es/es/consulta/registro.cmd?id=3711), traducción castellana (Madrid: Tip. de la Revista de Archivos, 1904-1908) Colección de escritores castellanos, vols. 126, 127, 130, y 134.
 
 Paz y Melia, Antonio. *El cronista Alfonso de Palencia: Su vida y sus obras, sus Décadas y
 las Crónicas contemporáneas. Ilustraciones de sus Décadas y notas varias* (Madrid: Tip. Revista de Archivos, 1914).
