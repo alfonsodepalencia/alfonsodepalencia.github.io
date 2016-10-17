@@ -7,9 +7,9 @@ teaser: ""
 permalink: "/contacto/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+- [Susanna Allés Torrent][1]
+- [susanna_alles@miami.edu](mailto:susanna_alles@miami.edu)
 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+ [1]: http://susannalles.github.io
+

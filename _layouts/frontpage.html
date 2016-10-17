@@ -27,10 +27,10 @@ format: blog-index
 </div>
 
 <div class="medium-4 columns frontpage-widget">	
-	<a href=" ">
+	<a href="{{site.url}}/hist/index.html">
 <img src="assets/img/decas.jpg" width="100%" alt="" />
 </a>
-	<h2 class="font-size-h3 t10">Historia</h2>
+	<h2 class="font-size-h3 t10">Historiografía</h2>
 	<p></p>
 	<p><a class="button tiny radius" href="{{site.url}}/hist/index.html">Más ›</a></p>
 </div>
@@ -60,11 +60,11 @@ format: blog-index
 {% assign url = site.url %}
 {% endif %}
 {% if page.callforaction %}
-    <div class="row t60 b60">
+  <!--  <div class="row t60 b60">
         <div class="small-12 text-center columns">
             <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ site.baseurl }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>Actualidades y eventos sobre humanismo castellano</a>
         </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+    </div><!-- /.row -->-->
 {% endif %}
 
 
