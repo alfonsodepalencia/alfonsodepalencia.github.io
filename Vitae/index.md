@@ -1,15 +1,14 @@
 ---
-layout: vitae
-title: Proyecto Vitae
+layout: vitae-page-fullwidth
+title: Proyecto <em>Vitae</em>
 
 ---
 
-### Sobre el Proyecto *Vitae Illustrium Virorum*
-
 <ul class="button-group">
-<li><a href="#contexto-de-la-obra" class="tiny button">1. Contexto de la obra</a></li>
-<li><a href="#funcionalidades-de-la-edicin-digital" class="tiny button">2. Funcionalidades</a></li>
-<li><a href="#implementacin-tcnica" class="tiny button">3. Implementación técnica</a></li>
+<li><a href="{{site.url}}/Vitae/1" class="tiny button">1. Contexto de la obra</a></li>
+<li><a href="{{site.url}}/Vitae/2" class="tiny button">2. Funcionalidades</a></li>
+<li><a href="{{site.url}}/Vitae/3" class="tiny button">3. Implementación técnica</a></li>
+<li><a href="{{site.url}}/Vitae/4" class="tiny button">4. Edición</a></li>
 </ul>
 
 #### 1. Contexto de la obra
@@ -43,6 +42,8 @@ Este corpus pasó a diversas lenguas romances, como el francés, el italiano, y 
 
 La traducción de Alfonso de Palencia es una aportación muy significativa al legado cultural hispánico del siglo XV y a los estudios de recepción clásica e italiana. El presente proyecto aspira a recoger esta serie de biografías pseudoplutarqueas y a ofrecer, por primera vez, una edición digital. 
 
+<div class="small-12 columns" style="text-align: right;"><a class="iconfont" href="#top-of-page"></a></div>
+
 #### 2. Funcionalidades de la edición digital
 
 La edición digital, que todavía se halla en un estado embrionario, prevé ofrecer las siguientes funcionalidades:
@@ -57,6 +58,8 @@ La edición digital, que todavía se halla en un estado embrionario, prevé ofre
 * Glosarios elaborados a partir de los corpora en latín y en castellano
 * Acceso a los textos en formatos diversos: [XML-TEI](https://github.com/susannalles/Vitae/tree/master/public/XML-TEI), [texto plano](https://github.com/susannalles/Vitae/tree/master/public/XML-TEI/TXT), pdf 
 * Infraestructura digital en acceso abierto para que pueda ser reutilizada y personalizada para otros proyectos similares.
+
+<div class="small-12 columns" style="text-align: right;"><a class="iconfont" href="#top-of-page"></a></div>
 
 #### 3. Implementación técnica
 

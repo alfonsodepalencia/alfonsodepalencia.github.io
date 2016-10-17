@@ -1,6 +1,6 @@
 ---
 permalink: /bibliografia/
-layout: page-full-width
+layout: page-fullwidth
 title: "Bibliografía"
 ---
 
