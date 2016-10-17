@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+	<style type="text/css">
+		a img {border:1px solid #021a40;}
+	</style>
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
+
+	{% include _masthead_vitae.html %}
+
+	
+	<div class="row t 30">
+		<div class="medium-10 columns medium-offset-2 end">
+
+	{{ content }}
+
+		</div>
+	</div>
+
+
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
+
+	{% include _footer_scripts.html %}
+</body>
+</html>
