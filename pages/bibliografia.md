@@ -18,7 +18,7 @@ title: "Bibliografía"
 
 # <a name="obras">1. OBRAS</a>
 
-### I. Ad nobilissimum militem sapientissimumque dominum Alfonsum de Velasco in funebrem abulensis famosissime praesulis (ca. 1455).
+##### I. Ad nobilissimum militem sapientissimumque dominum Alfonsum de Velasco in funebrem abulensis famosissime praesulis (ca. 1455).
 
 1. MS Madrid, Academia de la Historia 9/6482, 13 ff. s. XIX. 
 		Vid. Alemany (1983:9); Tate y Alemany (1982:122); Gallardo 2178; Menéndez Pelayo (BTE, IV:19); Simón Diaz 6021.
@@ -28,12 +28,12 @@ title: "Bibliografía"
 
 Edición: Tate y Alemany (1982:78-100, 122).
 
-### II. Bellum luporum cum canibus (ca. 1456).
+#### II. Bellum luporum cum canibus (ca. 1456).
 
 0. Desconocida. 
 		Vid. *Universal Vocabulario*, f. 548v; Nicolas Antonio (1788:334).
 
-### III. Batalla campal de los lobos y los perros (1457).
+#### III. Batalla campal de los lobos y los perros (1457).
 
 1. IMP. Sevilla: Cuatro compañeros alemanes, ca. 1490.
 	LOC: Madrid: Palacio Real, I-172. 
@@ -41,7 +41,7 @@ Edición: Tate y Alemany (1982:78-100, 122).
 
 Ediciones: Fabié (1876); López Serrano (1945); Arancón (1980).
 
-### IV. De Perfectione Militaris Triumphi (ca. 1458).
+#### IV. De Perfectione Militaris Triumphi (ca. 1458).
 
 1. MS Escorial: Monasterio, S.III.14, f. 58-118. 
 		Vid. Nicolás Antonio (1788:808); Amador (VII:154); Menéndez Pelayo (BYE, IV :18); Benigno Fernández (1901:114, 271); Antolín (IV :65); Durán (1995:53-63).
@@ -51,7 +51,7 @@ Ediciones: Fabié (1876); López Serrano (1945); Arancón (1980).
 
 Ediciones. Tate (1982:173-176); Durán (1995:73-128).
 
-### V. La Perfeçión del Triunfo (1459).
+#### V. La Perfeçión del Triunfo (1459).
 
 1. IMP. Sevilla: Pablo de Colonia, Juan Pegnitzer, Magno Herbt y Tomás Glockner, ca. 1490.
 		LOC.: BNM I-2603. 
@@ -59,27 +59,27 @@ Ediciones. Tate (1982:173-176); Durán (1995:73-128).
 
 Ediciones: Fabié (1876); Penna (1959); Durán (1995:129-200).
 
-### VI. De adulatoriis salutationibus laudatio nunque epictetis opinionem, non ratione usatis.
+#### VI. De adulatoriis salutationibus laudatio nunque epictetis opinionem, non ratione usatis.
 
 O. Desconocida. 
 		Vid. Universal Vocabulario, f. 548v; Caselles (1991:58).
 
-### VII. De vera sufficientia ducum atque legatomm.
+#### VII. De vera sufficientia ducum atque legatomm.
 
 0. Desconocida. 
 		Vid. Universal Vocabulario, f. 548v.
 
-### VIII. Canarorum in insulis fortunatis habitantium mores atque superstiitiones profecto mirabiles (ca. 1482).
+#### VIII. Canarorum in insulis fortunatis habitantium mores atque superstiitiones profecto mirabiles (ca. 1482).
 
 0. Desconocida. 
 		Vid. Universal Vocabulario, f. 548v.
 
-### IX. Vita beatissimi Alfonsi archipresulis toletani (ca. 1475).
+#### IX. Vita beatissimi Alfonsi archipresulis toletani (ca. 1475).
 
 O. Desconocida. 
 		Vid. Universal Vocabulario, f. 548v.
 
-### X. De Synonymis elegantibus libri III (1472).
+#### X. De Synonymis elegantibus libri III (1472).
 
 1. MS Madrid: Biblioteca del Noviciado 128. 
 		Vid. MS Madrid, Archivo Histórico Nacional, Universidades-Libro 1091-F, ff. 6r-18r: Tabula librorum bibliotece collegii Sancti Illefonssi, año 1523; MS Madrid, Biblioteca de la Universidad Central, sin signatura: Antonio de la Cruz, Index Manuscriptorum, año 1745, f. 7r; Villa-Amil (1878:47-8); Durán (1992:Apéndices).
@@ -88,7 +88,7 @@ O. Desconocida.
 	LOC.: BNM I/1336, I/ 1371, I/ 2013; BUS I-266; Monasterio de Montserrat; Nacional de Lisboa; Museo Británico IB.52359; Colombina de Sevilla. 
 	Vid. Méndez, núm. 25; Hain 12274; Fabié (1875:103-104); Escudero 12; Haebler 513; Gesamtkatalog 1266; Vindel (Manual Gr. 2.078 y ATE, V:98); García Rojo 779; Simón Díaz 6037; Riesco Bravo, p. 141; Palau; Salvá 3490; Moreno Maldonado, (V :265).
 
-### XI. Universal Vocabulario en Latín y en Romance (1488).
+#### XI. Universal Vocabulario en Latín y en Romance (1488).
 
 1.A. MS Escorial: Monasterio, f.II.11 (olim VII.E.3).
 		 Vol. II, letras O-Z; año 1488. ff. 481b-482d: «Mención del trabajo passado e del propósito para adelante». 
@@ -105,29 +105,29 @@ Herbst et Thomas Glockner, 1490.
 		Vid. Méndez, núm. 17; Escudero, núm. 11; Gallardo 2174; Hain 12257; Fabié (1876:lxxxvi); Haebler 510; Gesamtkatalog 1267; Vindel (ATE, V:64-68); Simón Díaz 6028; Moreno Maldonado (V:264); Riesco Bravo, núm. 300; Octavio de Toledo, núm. 357. García Rojo, 780; Cantó Bellod, 440; Cat. British Museum (X:33); Goff (A-538); Penny, p. 405; Oates, p. 666; García Romero, n. 67; Azevedo, 19; Faulhaber (1984:2005); Durán (1992).
 		Edición facsímil: Gili Gaya (1967). Edición en CD-ROM: ADMYTE (1992).
 
-### XII. Compendiolum breve, quo civitatem, oppidorum atque fluminum nomina hispanorum innotescant (26 de Agosto de 1482).
+#### XII. Compendiolum breve, quo civitatem, oppidorum atque fluminum nomina hispanorum innotescant (26 de Agosto de 1482).
 
 1. MS Montserrat: Monasterio, 882, ff. 16-27v. 
 		Vid. Mundó (1964); Olivar (1977:236); Kristeller (IV:594b).
 		Edición: Mundó y Tate (1975:253-278).
 
-### XIIIa. Antiquitatem hispaniae gentis libri I-X
+#### XIIIa. Antiquitatem hispaniae gentis libri I-X
 
 0. Desconocida. 
 		Vid. Univ. Voc. fol. 548v.
 
-### XIIIb. Antiquitatem hispaniae gentis libri XI-XX: Imperium Romanomm in Hispania; Gothorum deinde ferociam usque ad Arabicam rabiem (ca. 1460).
+#### XIIIb. Antiquitatem hispaniae gentis libri XI-XX: Imperium Romanomm in Hispania; Gothorum deinde ferociam usque ad Arabicam rabiem (ca. 1460).
 
 0. Desconocida. 
 		Vid. Univ. Voc. fol. 548v. Nicolás Antonio (1788:802) vio un ejemplar en la biblioteca de Juan Lucas Cortés; vendido en 1718 a Ehrencón y de nuevo en 1727 a Krys. 			
 		Vid. Foulché-Delbosc (1913:81-90); Alvarez Delgado (1963: 10); Gregorio de Andrés (1978:37); Quintanilla Raso (1980) confunde esta obra con la Gesta Hispaniensia; Alemany (1983:190); Tate (1989); Durán (1991a).
 
-### XIIIc. Priscorum principum gesta qui eximie in recuperatione partis maxime in Hispania a Mauris occupate prevaluerunt (ca. 1488).
+#### XIIIc. Priscorum principum gesta qui eximie in recuperatione partis maxime in Hispania a Mauris occupate prevaluerunt (ca. 1488).
 
 0. Desconocida. 
 		Cf. Universal Vocabulario, f. 549; Alemany (1983:191).
 
-### XIV. Gesta Hispaniensia ex annalihus suorum dierum colligentis [Decas I-II-III] (ca. 1477).
+#### XIV. Gesta Hispaniensia ex annalihus suorum dierum colligentis [Decas I-II-III] (ca. 1477).
 Vid. Fabié (1875:n. 43); Gallardo (II, Apéndice, p. 120); Menéndez Pelayo (1875:20); Paz y Melia (1914:372-375, y BAAEE, vol. 267, pp. 265-267a); Pardo (1980:990n); Tate (1989a:689-698, y 1989b:11-13); Tate y Lawrance (1996).
 
 1. MS British Library 8683. Decas Prima. 
@@ -188,7 +188,7 @@ Ediciones:
 
 Traducción: Paz y Melia (1904-1909 y 1973-1974).
 
-### XV. Bellum adversus Granatenses (1482-1489).
+#### XV. Bellum adversus Granatenses (1482-1489).
 
 Vid. Tate (1989b:1, 6, 13); Menéndez Pelayo (1875:20); Fabié (1875:n. 43); Gallardo (II, Apéndice, p. 120); Paz y Melia (1914:372-375 y BAAEE, vol. 267:265b-267a).
 
@@ -207,14 +207,14 @@ Edición: Tate y Lawrance (1996-).
 
 Traducción: Paz y Melia (1909 y 1974).
 
-### XVI. Decas quarta hispaniensium gestorum (ca. 1489).
+#### XVI. Decas quarta hispaniensium gestorum (ca. 1489).
 
 1. MS Madrid: Real Academia de la Historia, 9/453, autógrafo. 
 		Vid. López de Toro (1966:97); Kristeller (IV:511b).
 		Ediciones: López de Toro (1970); Tate y Lawrance (1996-).
 		Traducción: López de Toro (1974).
 
-### XVII. Epistola ad Johannem Episcopum Astoricensem De Bello Granatensi (8 de Enero de 1492).
+#### XVII. Epistola ad Johannem Episcopum Astoricensem De Bello Granatensi (8 de Enero de 1492).
 
 1. IMP. Sevilla: Meynardo Ungut y Stanislao Polono, 1492.
 		LOC. Salamanca: Universitaria I/190; Real de Copenhague; Provincial de Evora. 
@@ -225,7 +225,7 @@ Traducción: Paz y Melia (1909 y 1974).
 
 # <a name="traducciones">2. TRADUCCIONES</a>
 
-### XVIII. Domenico Cavalca, *Espejo de la Cruz* (1485).
+#### XVIII. Domenico Cavalca, *Espejo de la Cruz* (1485).
 
 1. MS Toledo: Catedral, armario 17, núm 17.
 		Vid. Nicolás Antonio, núm. 807.
@@ -238,7 +238,7 @@ Traducción: Paz y Melia (1909 y 1974).
 		LOC.: Museo Británico IA.52361; Lisboa: Nacional; Nueva York: Hispanic Society; San Juan: Casa del Libro;
 		Vid. Escudero, núm. 24; Haebler 145; Hain 4792; Gesamtkatalog 6430; Vindel, Sevilla, p. 146-147; Simón Díaz 6030; Faulhaber (1984:887).
 
-### XIX. Flavio ]osefo, *Guerras de los judíos con los romanos* (1491). La traducción se hizo a partir de la edición de Flavius ]osephus, *Opera* (Verona, 1480) ejemplares BNM I-152, I-1772, I-189. 
+#### XIX. Flavio ]osefo, *Guerras de los judíos con los romanos* (1491). La traducción se hizo a partir de la edición de Flavius ]osephus, *Opera* (Verona, 1480) ejemplares BNM I-152, I-1772, I-189. 
 
 Vid. Durán (1993:29, n.9).
 
@@ -254,17 +254,17 @@ Vid. Durán (1993:29, n.9).
 		LOC.: BNM R.557; Museo Lázaro Galdiano, Inv. 4285; Museo Británico 4515f (C.62f.12); Harvard: Houghton Library, Typ.560.36.468; Rio de Janeiro: Nacional, S.O.R. W 3,4,21; Munich: Bayerische Staatsbibliothek, 2o A.gr.b.765. 
 		Vid. Méndez, núm. 35; Salvá 2784; Escudero, p. 80; Simón Díaz 6034; Griffin 397.
 
-### XX. Flavio Josefo, *Contra Appion Gramática*, (1491). Para la fuente de la traducción véase el núm. XIX arriba.
+#### XX. Flavio Josefo, *Contra Appion Gramática*, (1491). Para la fuente de la traducción véase el núm. XIX arriba.
 
 1. IMP. Sevilla: Meynardo Ungut y Stanislao Polono, 1492. Impreso junto con la *Guerra de los judíos*, vid. XIX.1 supra.
 
-### XXI.a. [Plutarco, *Vidas*.
+#### XXI.a. [Plutarco, *Vidas*.
 
-### XXI.b. Guarino Veronese, *Vida de Platón y de Aristóteles*.
+#### XXI.b. Guarino Veronese, *Vida de Platón y de Aristóteles*.
 
-### XXI.c. Donato Acciaiolo, *Vida de Carlo Magno*.
+#### XXI.c. Donato Acciaiolo, *Vida de Carlo Magno*.
 
-### XXI.d. Rufino, *Epístola a Valentiniano*].
+#### XXI.d. Rufino, *Epístola a Valentiniano*].
 
 1. IMP. Sevilla: vol. I: *La primera parte de Plutarco*; vol. II: *La segunda parte
 de Plutarco*. Paulo de Colonia, Juan Nuremberg, Magno, e Thomas
@@ -282,7 +282,7 @@ Imprenta Real, 1792-93) 2 vol., 4o, hol.
 
 # <a name="epistolas">3. EPÍSTOLAS LATINAS</a>
 
-### XXII. Sapientissimo viro patrique ornatus ac utilis cuiusque doctrine magistro domino Georgio Trapesuntio Alfonsus Palentinus hispanus historiographus salutem plurimam dicit. [Romae, 2-I-1465].
+#### XXII. Sapientissimo viro patrique ornatus ac utilis cuiusque doctrine magistro domino Georgio Trapesuntio Alfonsus Palentinus hispanus historiographus salutem plurimam dicit. [Romae, 2-I-1465].
 
 1. MS BNM 7446, f. 264r-267r (Olim T-291). 
 		Vid. Pellicer (p. 8); Gallardo (II: 120); Menéndez Pelayo (BTE,IV:20); Fabié (1875:65-68); Tate y Alemany (1982:120); Monfasani (1984:29 y 104-108).
@@ -292,7 +292,7 @@ Imprenta Real, 1792-93) 2 vol., 4o, hol.
 
 Ediciones: Fabié (1876:65-68); Tate y Alemany (1982:57-65); Monfasani (1984:101-104); Rubio (1952:571-575).
 
-### XXIII. Georgius Trapesuntius Alfonso Palentino salutem plurimam [Romae, 21-I-1465].
+#### XXIII. Georgius Trapesuntius Alfonso Palentino salutem plurimam [Romae, 21-I-1465].
 
 1. MS Madrid: Nacional 7446, ff. 267r-270r, (Olim T-291). 
 		Vid. Pellicer, p. 8; Gallardo (II:120); Menéndez Pelayo, BTE, IV:20; Fabié (1876:69-71); Tate y Alemany (1982:120); Monfasani (1984:29 y 104-108).
@@ -305,7 +305,7 @@ Ediciones: Fabié (1876:65-68); Tate y Alemany (1982:57-65); Monfasani (1984:101
 
 Ediciones: Fabié (1875:69-71); Tate y Alemany (1982:64-70); Monfasani (1984:105-108); Rubio (1952:575-578).
 
-### XXIV. [Donatus Acciaiolus] nomine Vespasiani librarii ad Alfonsum Palentinum. Florentie, 24 septembris 1463.
+#### XXIV. [Donatus Acciaiolus] nomine Vespasiani librarii ad Alfonsum Palentinum. Florentie, 24 septembris 1463.
 
 1. MS Florencia: Biblioteca Nazionale Centrale, Magl. viii. 1390, ff 47v-48v.
 		Vid. Fossi (1791:60-63); Della Torre (1902:338, 469-470); Kristeller (I:133); Studi Italiani, XV:138; Tate y Alemany (1982:122).
@@ -315,14 +315,14 @@ Ediciones: Fabié (1875:69-71); Tate y Alemany (1982:64-70); Monfasani (1984:105
 
 Ediciones: Fossi (1791:60-63); Mundó (1964); Cagnia (1969:150-153); Tate y Alemany (1982:71-74).
 
-### XXV. Ejusdem Alfonsi epistola ad Vespasianum [da Bisticci] librarium florentinum. [ca. 1463].
+#### XXV. Ejusdem Alfonsi epistola ad Vespasianum [da Bisticci] librarium florentinum. [ca. 1463].
 
 1. [MS Monasterio de Montserrat, 882, f. 15-15v](http://www.cervantesvirtual.com/servlet/SirveObras/57959953116027162922202/ima0042.htm). 
 		Vid. Mundó (1964:277); Tate y Mundó (1975:9n. y 254); Olivar (1977:236); Tate y Alemany (1982:9, n.7).
 
 Ediciones: Mundó (1964:275-277); Tate y Alemany (1982:71-74).
 
-### XXVI. [Ad Alfonsum de Velasco epistola]. Nobilitatem tuam prestantisimo
+#### XXVI. [Ad Alfonsum de Velasco epistola]. Nobilitatem tuam prestantisimo
 decoratam...
 
 1. MS Burgo de Osma, 57, f 116r-v. 
@@ -332,7 +332,7 @@ decoratam...
 
 Edición: Tate y Alemany (1982:31-33).
 
-### XXVII. De Laudibus Hispalis ad Reverendum Dominum Archidiaconum de
+#### XXVII. De Laudibus Hispalis ad Reverendum Dominum Archidiaconum de
 Carrione Alfonsi Palentini epístola.
 
 1. MS Burgo de Osma, 57, ff. 121v-123v. 
@@ -342,7 +342,7 @@ Carrione Alfonsi Palentini epístola.
 
 Edición: Tate y Alemany (l982:34-41).
 
-### XXVIIIa. Domino Petro Lunensi Alfonsus Palentinus salutem plurimam
+#### XXVIIIa. Domino Petro Lunensi Alfonsus Palentinus salutem plurimam
 dicit [ca. 1453].
 
 1. MS Burgo de Osma, 57, f. 124v. 
@@ -352,7 +352,7 @@ dicit [ca. 1453].
 
 Edición: Tate y Alemany (1982:42-43).
 
-### XXVIIIb. [De contemptu mundi]. Desconocida. 
+#### XXVIIIb. [De contemptu mundi]. Desconocida. 
 
 Vid. Tate y Alemany (1982:119).
 		
@@ -365,7 +365,7 @@ XXIXa. Didaco ut fratri amantissimo, laboris hujus inpositori motorique.
 
 Edición: Tate y Alemany (1982:44).
 
-### XXX. [Honos alit artes] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nunquam, quum Livium, Salustium, Cesarem, Florum, Justinum, Plutarchum, Suetonium, Plinium aliosque quam plurimos historiographos legerim...
+#### XXX. [Honos alit artes] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nunquam, quum Livium, Salustium, Cesarem, Florum, Justinum, Plutarchum, Suetonium, Plinium aliosque quam plurimos historiographos legerim...
 
 1. MS Burgo de Osma, 57, ff. 127r-128v. 
 		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
@@ -374,7 +374,7 @@ Edición: Tate y Alemany (1982:44).
 
 Edición: Tate y Alemany (1982:45-51).
 
-### XXXI. [Trium feminarum colloquium] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nimirum si per triduum hic moratus vultum...
+#### XXXI. [Trium feminarum colloquium] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nimirum si per triduum hic moratus vultum...
 
 1. MS Burgo de Osma, 57, f. 129r-v. 
 		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
@@ -443,7 +443,7 @@ D19. Burgos, Archivo Catedral, Libro Redondo, año 1449-50. Nombramiento de A. d
 Las obras de este historiador que mayor atención recibieron fueron las apócrifas. En los siglos XVI y XVII se difundieron una infinidad de copias manuscritas de una *Crónica de Enrique IV rey de Castilla* atribuida al cronista palentino. Amador de los Ríos (1865,VII:157) aceptó las conclusiones de Sáinz de Baranda (1833) contra la atribución de esa crónica castellana a Palencia, al igual que hacen Cirot (1909), Paz y Melia (1914:xliv-l, 372-375; y 1973:xlii), Torres Fontes (1946), Pardo (1980), y Sánchez Parra (1991) quien ha editado el texto. Asimismo, Amador de los Ríos (VII:161-162) y Fabié (1875:20-21) cuestionaron la atribución de las *Coplas del Provincial*. Recientemente se ha editado una *Relación verdadera de lo acahecido en la prisión del rey chico de
 Granada* (Caselles 1991:210-238), obra también apócrifa de Palencia, como indica Faulhaber (1983:475).
 
-### XXXII. Crónica de Enrique IV rey de Castilla.
+#### XXXII. Crónica de Enrique IV rey de Castilla.
 
 1. MS Parma: Nazionale, Parmese 986. 
 		Vid. Jones (1977:45); Faulhaber (1984:2642).
@@ -589,7 +589,7 @@ Granada* (Caselles 1991:210-238), obra también apócrifa de Palencia, como indi
 Ediciones: Holland (1850); Cirot (1909); Sánchez-Parra (1991).
 
 
-### XXXIII. Coplas del Provincial (1465-1477). 
+#### XXXIII. Coplas del Provincial (1465-1477). 
 
 Vid. Simón Díaz 3692-3704 y 3176-3188.
 		
@@ -614,7 +614,7 @@ Vid. Simón Díaz 3692-3704 y 3176-3188.
 
 Ediciones: Menéndez Pelayo (1895:24-28 y 1896,VI:v-xii, 37 de las coplas según la copia de Gallardo); Foulche-Delbosc (1898, V:255-266 y 1899:417-46); Rodríguez Moñino (1949:xxx y 1950:123-146,263-312); Ciceri (1975:39-120); Dutton 4119.
 
-### XXXIV. Relación verdadera de lo acahecido en la prisión del rey chico de Granada en el Arroyo que llaman de Martín González, el día 21 [22 de Abril del año de 1483].
+#### XXXIV. Relación verdadera de lo acahecido en la prisión del rey chico de Granada en el Arroyo que llaman de Martín González, el día 21 [22 de Abril del año de 1483].
 
 1. MS Hispanic Society, B2586. s. XVIII. 
 		Vid. Faulhaber (1984:475); Carriazo (1927); Paz y Melia (1909).
@@ -626,7 +626,7 @@ Ediciones: Caselles (1991:249-274); La Fuente y Alcántara (1868:47-67).
 
 Alemany Ferrer, Rafael. «En torno a los primeros años de formación y estancia en Italia del humanista castellano Alonso de Palencia», *Revista de Ciencias Humanas*, Alicante (1978) 61-72.
 
-Alemany Ferrer, Rafael. [«Acerca del supuesto origen converso de Alfonso de Palencia»](http://dugi-doc.udg.edu/bitstream/handle/10256/5524/43537.pdf?sequence=1), *Estudi General*, Revista del Col·legi Universitari de Girona, núm. 1, vol. II (1981) 35-40.
+—. [«Acerca del supuesto origen converso de Alfonso de Palencia»](http://dugi-doc.udg.edu/bitstream/handle/10256/5524/43537.pdf?sequence=1), *Estudi General*, Revista del Col·legi Universitari de Girona, núm. 1, vol. II (1981) 35-40.
 
 Alemany Ferrer, Rafael. [«Dimensión humanística de una obra menor de A. de Palencia: El
 Tratado de la Perfección del Triunfo Militar»](https://rua.ua.es/dspace/bitstream/10045/7253/1/ALE_01_01.pdf), *Anales de literatura española de la Universidad de Alicante I*, 1982 (1983) 7-20.
