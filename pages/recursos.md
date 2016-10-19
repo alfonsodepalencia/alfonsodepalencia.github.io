@@ -3,7 +3,7 @@ layout: page
 title: "Recursos"
 subheadline: ""
 teaser: ""
-permalink: /recursos/
+permalink: /palencia/recursos/
 ---
 
 ### Recursos en línea sobre Alfonso de Palencia 

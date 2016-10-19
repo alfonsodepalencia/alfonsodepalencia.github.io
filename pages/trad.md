@@ -3,7 +3,7 @@ layout: page
 title: "Traducción"
 subheadline: ""
 teaser: ""
-permalink: /trad/
+permalink: /proyectos/trad
 ---
 Iniciativas relacionadas con la traducción
 

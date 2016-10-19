@@ -3,7 +3,7 @@ layout: page
 title: "Historiografía"
 subheadline: ""
 teaser: ""
-permalink: /hist/
+permalink: /proyectos/hist/
 ---
 
 Iniciativas relacionadas con la historiografía.

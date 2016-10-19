@@ -7,9 +7,9 @@ subheadline: "Susanna Allés Torrent"
 title: "Iniciamos el Proyecto Palencia"
 teaser: "Abrimos este espacio para compartir los materiales sobre Alfonso de Palencia..."
 categories:
-  - proyecto
+  - 
 tags:
-  - proyecto
+  - 
 #
 # Styling
 #

@@ -3,5 +3,5 @@ layout: page
 title: "Biografía"
 subheadline: ""
 teaser: ""
-permalink: /biografia/
+permalink: /palencia/biografia/
 ---
