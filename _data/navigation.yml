@@ -23,13 +23,11 @@
   side: left
   dropdown:
   - title: "Traducciones"
-    url: "/trad/"
+    url: "/proyectos/trad/"
   - title: "Historiografía"
-    url: "/hist/"
+    url: "/proyectos/hist/"
   - title: "Lexicografía"
-    url: "/lexico/"
-  - title: "Ficción"
-    url: "/fic/"
+    url: "/proyectos/lexico/"
 
 - title: "Bibliografía"
   url: "/bibliografia"

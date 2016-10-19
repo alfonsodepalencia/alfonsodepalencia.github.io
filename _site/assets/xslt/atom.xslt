@@ -294,22 +294,17 @@
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/trad/">Traducciones</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/proyectos/trad/">Traducciones</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/hist/">Historiografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/proyectos/hist/">Historiografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/lexico/">Lexicografía</a></li>
-                    
-
-                      
-
-                      <li><a href="https://alfonsodepalencia.github.io/fic/">Ficción</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/proyectos/lexico/">Lexicografía</a></li>
                     
                   </ul>
                   
