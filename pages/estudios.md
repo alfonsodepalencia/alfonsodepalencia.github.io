@@ -1,17 +1,17 @@
 ---
 permalink: /bibliografia/estudios/
-layout: bib
+layout: page-fullwidth
 title: "Bibliografía"
-teaser: "Bibliografía relacionada con Alfonso de Palencia"
+teaser: " "
+header: no
 ---
 
+[1. Obras](/bibliografia/obras)<br/>
+[2. Documentos](/bibliografia/docs)<br/>
+[>> 3. Estudios sobre Alfonso de Palencia](/bibliografia/estudios)<br/>
+[4. Catálogos, y obras referencias](/bibliografia/refs)<br/>
 
 [Colección en Zotero](https://www.zotero.org/groups/bibliografa_alfonso_de_palencia) que podrán exportarse automáticamente en este apartado web:
-
-[1. Obras](/obras)<br/>
-[2. Documentos](/docs)<br/>
-[3. Estudios sobre Alfonso de Palencia](#estudios)<br/>
-[4. Catálogos, y obras referencias](#refs)<br/>
 
 # <a name="estudios">ESTUDIOS SOBRE ALFONSO DE PALENCIA</a>
 
