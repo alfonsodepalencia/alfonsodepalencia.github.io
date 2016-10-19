@@ -253,22 +253,22 @@
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/contexto/">Contexto histórico</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/palencia/contexto/">Contexto histórico</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/biografia/">Biografía</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/palencia/biografia/">Biografía</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/obra/">Obra</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/palencia/obra/">Obra</a></li>
                     
 
                       
 
-                      <li><a href="https://alfonsodepalencia.github.io/recursos/">Recursos</a></li>
+                      <li><a href="https://alfonsodepalencia.github.io/palencia/recursos/">Recursos</a></li>
                     
                   </ul>
                   

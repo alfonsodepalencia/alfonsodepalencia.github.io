@@ -10,13 +10,13 @@
   side: left
   dropdown:
   - title: "Contexto histórico"
-    url: "/contexto/"
+    url: "/palencia/contexto/"
   - title: "Biografía"
-    url: "/biografia/"
+    url: "/palencia/biografia/"
   - title: "Obra"
-    url: "/obra/"
+    url: "/palencia/obra/"
   - title: "Recursos"
-    url: "/recursos/"
+    url: "/palencia/recursos/"
 
 - title: "Proyectos"
   url: "/proyectos/"
