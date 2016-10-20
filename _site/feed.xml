@@ -5,25 +5,25 @@
 	<channel>
 		<title>Alfonso de Palencia</title>
 		<description>Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.</description>
-		<link>http://127.0.0.1:4000//</link>
-		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://alfonsodepalencia.github.io/</link>
+		<atom:link href="https://alfonsodepalencia.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Ultimas publicaciones y eventos</title>
-				<link>http://127.0.0.1:4000//evento/ultimas-publicaciones/</link>
+				<link>https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/</link>
 				<pubDate>Tue, 11 Oct 2016 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://ciham.ish-lyon.cnrs.fr/en/alfonso-palencia&quot;&gt;Alfonso de Palencia: Travaux en cours et perspectives&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//evento/ultimas-publicaciones/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/</guid>
 			</item>
 		
 			<item>
 				<title>Iniciamos el Proyecto Palencia</title>
-				<link>http://127.0.0.1:4000//Alles-apertura-blog/</link>
+				<link>https://alfonsodepalencia.github.io/Alles-apertura-blog/</link>
 				<pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//Alles-apertura-blog/</guid>
+				<guid isPermaLink="true">https://alfonsodepalencia.github.io/Alles-apertura-blog/</guid>
 			</item>
 		
 	</channel>

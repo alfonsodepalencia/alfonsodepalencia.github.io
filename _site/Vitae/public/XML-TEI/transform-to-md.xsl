@@ -15,6 +15,7 @@
             omit-xml-declaration="yes">
             <xsl:text>---&#x0A;layout: edition</xsl:text>
             <xsl:text>&#x0A;titulo: Vida de Hanníbal</xsl:text>
+            <xsl:text>&#x0A;permalink: /Vitae/VH/</xsl:text><xsl:apply-templates select="@n"></xsl:apply-templates>
             <xsl:text>&#x0A;paginas: </xsl:text>
             <xsl:for-each
                 select="preceding-sibling::tei:div/@n | self::tei:div/@n | following-sibling::tei:div/@n">
@@ -45,6 +46,7 @@
             omit-xml-declaration="yes">
             <xsl:text>---&#x0A;layout: edition</xsl:text>
             <xsl:text>&#x0A;titulo: Vida de Scipión</xsl:text>
+            <xsl:text>&#x0A;permalink: /Vitae/VS/</xsl:text><xsl:apply-templates select="@n"></xsl:apply-templates>
             <xsl:text>&#x0A;paginas: </xsl:text>
             <xsl:for-each
                 select="preceding-sibling::tei:div/@n | self::tei:div/@n | following-sibling::tei:div/@n">
@@ -75,6 +77,7 @@
             omit-xml-declaration="yes">
             <xsl:text>---&#x0A;layout: edition</xsl:text>
             <xsl:text>&#x0A;titulo: Comparaçión de Hanníbal y de Publio Scipión</xsl:text>
+            <xsl:text>&#x0A;permalink: /Vitae/VHS/</xsl:text><xsl:apply-templates select="@n"></xsl:apply-templates>
             <xsl:text>&#x0A;paginas: </xsl:text>
             <xsl:for-each
                 select="preceding-sibling::tei:div/@n | self::tei:div/@n | following-sibling::tei:div/@n">
@@ -122,7 +125,7 @@
 
     <xsl:template match="tei:pb">
         <a href="{@facs}" target="new">
-            <img class="facs" src="/Vitae/public/images/facs_icon.jpg"/><!-- Sirve de icono para el link de las imágenes -->
+            <img class="facs" src="https://alfonsodepalencia.github.io/Vitae/public/images/facs_icon.jpg"/><!-- Sirve de icono para el link de las imágenes -->
         </a>
     </xsl:template>
 

@@ -7,4 +7,4 @@ permalink: /proyectos/trad/
 ---
 Iniciativas relacionadas con la traducción
 
-Proyecto [*Vitae*](https://alfonsodepalencia.github.io/Vitae/)
+[Proyecto Vitae]({{site.url}}/Vitae/)
