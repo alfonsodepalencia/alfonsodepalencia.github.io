@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://alfonsodepalencia.github.io/</id>
+	<id>http://127.0.0.1:4000/</id>
 	<title>Alfonso de Palencia</title>
-	<updated>2016-10-20T12:34:17+02:00</updated>
+	<updated>2016-10-20T22:34:32+02:00</updated>
 
 	<subtitle>Esta página contiene materiales relativos a la figura de Alfonso de Palencia. El proyecto está abierto a todo aquel que quiera colaborar.</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="https://alfonsodepalencia.github.io/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://alfonsodepalencia.github.io/" rel="alternate" type="text/html" />
+	<link href="http://127.0.0.1:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/</id>
+			<id>http://127.0.0.1:4000/evento/ultimas-publicaciones/</id>
 			<title>Ultimas publicaciones y eventos</title>
-			<link href="https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/" rel="alternate" type="text/html" title="Ultimas publicaciones y eventos" />
+			<link href="http://127.0.0.1:4000/evento/ultimas-publicaciones/" rel="alternate" type="text/html" title="Ultimas publicaciones y eventos" />
 			<updated>2016-10-11T00:00:00+02:00</updated>
 
 			
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary> </summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io/evento/ultimas-publicaciones/">&lt;p&gt;&lt;a href=&quot;http://ciham.ish-lyon.cnrs.fr/en/alfonso-palencia&quot;&gt;Alfonso de Palencia: Travaux en cours et perspectives&lt;/a&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://127.0.0.1:4000/evento/ultimas-publicaciones/">&lt;p&gt;&lt;a href=&quot;http://ciham.ish-lyon.cnrs.fr/en/alfonso-palencia&quot;&gt;Alfonso de Palencia: Travaux en cours et perspectives&lt;/a&gt;&lt;/p&gt;
 
 </content>
 
@@ -57,9 +57,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://alfonsodepalencia.github.io/Alles-apertura-blog/</id>
+			<id>http://127.0.0.1:4000/Alles-apertura-blog/</id>
 			<title>Iniciamos el Proyecto Palencia</title>
-			<link href="https://alfonsodepalencia.github.io/Alles-apertura-blog/" rel="alternate" type="text/html" title="Iniciamos el Proyecto Palencia" />
+			<link href="http://127.0.0.1:4000/Alles-apertura-blog/" rel="alternate" type="text/html" title="Iniciamos el Proyecto Palencia" />
 			<updated>2016-10-10T00:00:00+02:00</updated>
 
 			
@@ -73,7 +73,7 @@
 				</author>
 			
 			<summary>Espacio para compartir materiales sobre Alfonso de Palencia.</summary>
-			<content type="html" xml:base="https://alfonsodepalencia.github.io/Alles-apertura-blog/"></content>
+			<content type="html" xml:base="http://127.0.0.1:4000/Alles-apertura-blog/"></content>
 
 			
 				<category term="" />

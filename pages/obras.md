@@ -23,15 +23,6 @@ header: no
 
 <a name="1">1. Obras conocidas</a>
 
-##### Ad nobilissimum militem sapientissimumque dominum Alfonsum de Velasco in funebrem abulensis famosissime praesulis (ca. 1455).
-
-1. MS Madrid, Academia de la Historia 9/6482, 13 ff. s. XIX. 
-		Vid. Alemany (1983:9); Tate y Alemany (1982:122); Gallardo 2178; Menéndez Pelayo (BTE, IV:19); Simón Diaz 6021.
-
-2. MS Madrid, Biblioteca del Noviciado 133. f. 93r—106v, s. XV. 
-		Vid. Villa-Amil (1878:51); Duran (1992).
-
-Edición: Tate y Alemany (1982:78-100, 122).
 
 #### Batalla campal de los lobos y los perros (1457).
 
@@ -171,12 +162,7 @@ Traducción: Paz y Melia (1909 y 1974).
 		Ediciones: López de Toro (1970); Tate y Lawrance (1996-).
 		Traducción: López de Toro (1974).
 
-#### Epistola ad Johannem Episcopum Astoricensem De Bello Granatensi (8 de Enero de 1492).
 
-1. IMP. Sevilla: Meynardo Ungut y Stanislao Polono, 1492.
-		LOC. Salamanca: Universitaria I/190; Real de Copenhague; Provincial de Evora. 
-		Vid. Hain 12276; Riesco Bravo, p. 141; Simón Díaz 6038; Haebler 514; Gesamtkatalog 1263; Vindel (ATE, Sevilla, p. 157).
-		Ediciones: Marín Ocete (1929:93-111); Tate y Alemany (1982:101-117).
 
 <div class="small-12 columns" style="text-align: right;"><a class="iconfont" href="#top-of-page"></a></div>
 
@@ -229,6 +215,11 @@ O. Desconocida.
 
 0. Desconocida. 
 		Vid. *Universal Vocabulario*, f. 548v; Nicolas Antonio (1788:334).
+		
+
+#### b. [De contemptu mundi]. Desconocida. 
+
+Vid. Tate y Alemany (1982:119).
 
 <div class="small-12 columns" style="text-align: right;"><a class="iconfont" href="#top-of-page"></a></div>
 <a name="3">3. Traducción</a>
@@ -291,7 +282,65 @@ Imprenta Real, 1792-93) 2 vol., 4o, hol.
 
 # <a name="4">4. EPÍSTOLAS LATINAS</a>
 
-#### Sapientissimo viro patrique ornatus ac utilis cuiusque doctrine magistro domino Georgio Trapesuntio Alfonsus Palentinus hispanus historiographus salutem plurimam dicit. [Romae, 2-I-1465].
+#### I. [A un Velasco]. Nobilitatem tuam prestantissimo decoratam...
+
+1. MS Burgo de Osma, 57, f 116r-v. 
+		Vid. Tomás Rodríguez (1888:19); Rojo Orcajo, p. 129; Tate y Alemany (1982:11).
+
+2. MS Madrid, Academia de la Historia 9/ 6482. El Leg. 6482 contiene 8 f. en 4º con unas letras de P. Sáinz de Baranda acusando recibo de esta copia, hecha en 1853 por Zoila Gómez del manuscrito de las epístolas de A. de P. conservado en la catedral de Burgo de Osma.
+
+Edición: Tate y Alemany (1982:31-33).
+
+#### II. [Al Arcediano de Carrión] De Laudibus Ispalis ad Reverendum Dominum Archidiaconum de Carrione Alfonsi Palentini epistola.
+
+1. MS Burgo de Osma, 57, ff. 121v-123v. 
+		Vid. Tomás Rodríguez (1888:21); Rojo Orcajo, p. 129; Tate y Alemany (1982:119).
+
+2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+
+Edición: Tate y Alemany (l982:34-41).
+
+#### III. [A Pedro de Luna] Domino Petro Lunensi Alfonsus Palentinus salutem plurimam
+dicit [ca. 1453].
+
+1. MS Burgo de Osma, 57, f. 124v. 
+		Vid. Tomás Rodríguez, p. 23; Rojo Orcajo, p. 129; Tate y Alemany (1982:119); Tate (1979:28).
+		
+2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+
+Edición: Tate y Alemany (1982:42-43).
+
+
+#### IV. [A su hermano Diego] Didaco ut fratri amantissimo, laboris hujus inpositori motorique.
+
+1. MS Burgo de Osma, 57, fol. 124r. 
+		Vid. Tomás Rodríguez (1888:19); Rojo Orcajo, p. 129; Tate y Alemany (1982:119).
+
+2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+
+Edición: Tate y Alemany (1982:44).
+
+#### V. [A Fernando del Pulgar] Alfonssus Palentinus Fernando Maximi Policis viro salutem plurimam dicit. "Nunquam, quum Livium, Salustium, Cesarem, Florum, Justinum, Plutarchum, Suetonium, Plinium aliosque quam plurimos historiographos legerim..."
+
+1. MS Burgo de Osma, 57, ff. 127r-128v. 
+		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
+
+2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+
+Edición: Tate y Alemany (1982:45-51).
+
+
+#### VI. [A Fernando del Pulgar] Alfonsus Palentinus Fernando Maximi Policis viro salutem plurimam dicit. "Nimirum si per triduum hic moratus vultum..."
+
+1. MS Burgo de Osma, 57, f. 129r-v. 
+		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
+
+2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+
+Edición: Tate y Alemany (1982:52-56).
+
+
+#### VII. [A Jorge de Trebisonda] Sapientissimo viro patrique ornatus ac utilis cuiusque doctrine magistro domino Georgio Trapesuntio Alfonsus Palentinus Hispanus historiographus salutem plurimam dicit. [Romae, 2-I-1465].
 
 1. MS BNM 7446, f. 264r-267r (Olim T-291). 
 		Vid. Pellicer (p. 8); Gallardo (II: 120); Menéndez Pelayo (BTE,IV:20); Fabié (1875:65-68); Tate y Alemany (1982:120); Monfasani (1984:29 y 104-108).
@@ -301,7 +350,7 @@ Imprenta Real, 1792-93) 2 vol., 4o, hol.
 
 Ediciones: Fabié (1876:65-68); Tate y Alemany (1982:57-65); Monfasani (1984:101-104); Rubio (1952:571-575).
 
-#### Georgius Trapesuntius Alfonso Palentino salutem plurimam [Romae, 21-I-1465].
+#### VIII. [Respuesta de Jorge de Trebisonda] Georgius Trapesuntius Alfonso Palentino salutem plurimam [Romae, 21-I-1465].
 
 1. MS Madrid: Nacional 7446, ff. 267r-270r, (Olim T-291). 
 		Vid. Pellicer, p. 8; Gallardo (II:120); Menéndez Pelayo, BTE, IV:20; Fabié (1876:69-71); Tate y Alemany (1982:120); Monfasani (1984:29 y 104-108).
@@ -314,7 +363,7 @@ Ediciones: Fabié (1876:65-68); Tate y Alemany (1982:57-65); Monfasani (1984:101
 
 Ediciones: Fabié (1875:69-71); Tate y Alemany (1982:64-70); Monfasani (1984:105-108); Rubio (1952:575-578).
 
-#### [Donatus Acciaiolus] nomine Vespasiani librarii ad Alfonsum Palentinum. Florentie, 24 septembris 1463.
+#### IX. [De Donato Acciaiuoli y Vespasiano da Bisticci] Nomine Vespasiani librarii ad Alfonsum Palentinum. Florentie, 24 septembris 1463.
 
 1. MS Florencia: Biblioteca Nazionale Centrale, Magl. viii. 1390, ff 47v-48v.
 		Vid. Fossi (1791:60-63); Della Torre (1902:338, 469-470); Kristeller (I:133); Studi Italiani, XV:138; Tate y Alemany (1982:122).
@@ -324,73 +373,32 @@ Ediciones: Fabié (1875:69-71); Tate y Alemany (1982:64-70); Monfasani (1984:105
 
 Ediciones: Fossi (1791:60-63); Mundó (1964); Cagnia (1969:150-153); Tate y Alemany (1982:71-74).
 
-#### Ejusdem Alfonsi epistola ad Vespasianum [da Bisticci] librarium florentinum. [ca. 1463].
+#### X. [A Vespasiano de Bisticci] Ejusdem Alfonsi epistola ad Vespasianum [da Bisticci] librarium florentinum. Vespasiano librario Alfonsus Palentinus salutem plurimam dicit [ca. 1463].
 
 1. [MS Monasterio de Montserrat, 882, f. 15-15v](http://www.cervantesvirtual.com/servlet/SirveObras/57959953116027162922202/ima0042.htm). 
 		Vid. Mundó (1964:277); Tate y Mundó (1975:9n. y 254); Olivar (1977:236); Tate y Alemany (1982:9, n.7).
 
 Ediciones: Mundó (1964:275-277); Tate y Alemany (1982:71-74).
 
-#### [Ad Alfonsum de Velasco epistola]. Nobilitatem tuam prestantisimo
-decoratam...
 
-1. MS Burgo de Osma, 57, f 116r-v. 
-		Vid. Tomás Rodríguez (1888:19); Rojo Orcajo, p. 129; Tate y Alemany (1982:11).
+##### XI. [Elegía por el Tostado] Ad nobilissimum militem sapientissimumque dominum Alfonsum de Velasco in funebrem Abulensis famosissimi praesulis praefatio Alfonsi Palentini incipit (ca. 1455).
 
-2. MS Madrid, Academia de la Historia 9/ 6482. El Leg. 6482 contiene 8 f. en 4º con unas letras de P. Sáinz de Baranda acusando recibo de esta copia, hecha en 1853 por Zoila Gómez del manuscrito de las epístolas de A. de P. conservado en la catedral de Burgo de Osma.
+1. MS Madrid, Academia de la Historia 9/6482, 13 ff. s. XIX. 
+		Vid. Alemany (1983:9); Tate y Alemany (1982:122); Gallardo 2178; Menéndez Pelayo (BTE, IV:19); Simón Diaz 6021.
 
-Edición: Tate y Alemany (1982:31-33).
+2. MS Madrid, Biblioteca del Noviciado 133. f. 93r—106v, s. XV. 
+		Vid. Villa-Amil (1878:51); Duran (1992).
 
-#### De Laudibus Hispalis ad Reverendum Dominum Archidiaconum de
-Carrione Alfonsi Palentini epístola.
+Edición: Tate y Alemany (1982:78-100, 122).
 
-1. MS Burgo de Osma, 57, ff. 121v-123v. 
-		Vid. Tomás Rodríguez (1888:21); Rojo Orcajo, p. 129; Tate y Alemany (1982:119).
 
-2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
+#### XII. [Al Obispo de Astorga] Ad Reverendum in Christo patrem et doctissimum dominum Joannem episcopum Astoricensem Alfonsi Palentini historici epistola [De Bello Granatensi] (8 de Enero de 1492).
 
-Edición: Tate y Alemany (l982:34-41).
+1. IMP. Sevilla: Meynardo Ungut y Stanislao Polono, 1492.
+		LOC. Salamanca: Universitaria I/190; Real de Copenhague; Provincial de Evora. 
+		Vid. Hain 12276; Riesco Bravo, p. 141; Simón Díaz 6038; Haebler 514; Gesamtkatalog 1263; Vindel (ATE, Sevilla, p. 157).
+		Ediciones: Marín Ocete (1929:93-111); Tate y Alemany (1982:101-117).
 
-#### a. Domino Petro Lunensi Alfonsus Palentinus salutem plurimam
-dicit [ca. 1453].
 
-1. MS Burgo de Osma, 57, f. 124v. 
-		Vid. Tomás Rodríguez, p. 23; Rojo Orcajo, p. 129; Tate y Alemany (1982:119); Tate (1979:28).
-		
-2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
-
-Edición: Tate y Alemany (1982:42-43).
-
-#### b. [De contemptu mundi]. Desconocida. 
-
-Vid. Tate y Alemany (1982:119).
-		
-### a. Didaco ut fratri amantissimo, laboris hujus inpositori motorique.
-
-1. MS Burgo de Osma, 57, fol. 124r. 
-		Vid. Tomás Rodríguez (1888:19); Rojo Orcajo, p. 129; Tate y Alemany (1982:119).
-
-2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
-
-Edición: Tate y Alemany (1982:44).
-
-#### [Honos alit artes] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nunquam, quum Livium, Salustium, Cesarem, Florum, Justinum, Plutarchum, Suetonium, Plinium aliosque quam plurimos historiographos legerim...
-
-1. MS Burgo de Osma, 57, ff. 127r-128v. 
-		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
-
-2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
-
-Edición: Tate y Alemany (1982:45-51).
-
-#### [Trium feminarum colloquium] Alfonssus Palentinus Fernando [del Pulgar] maximi policis viro salutem plurimam dicit. Nimirum si per triduum hic moratus vultum...
-
-1. MS Burgo de Osma, 57, f. 129r-v. 
-		Vid. Tomás Rodríguez (1888:20); Rojo Orcajo, p. 129; Tate y Alemany (1982:120).
-
-2. MS Madrid, Academia de la Historia 9/6482. Copiada por Zoilo Gómez, año 1853.
-
-Edición: Tate y Alemany (1982:52-56).
- 
 <div class="small-12 columns" style="text-align: right;"><a class="iconfont" href="#top-of-page"></a></div>
 

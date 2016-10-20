@@ -9,8 +9,6 @@
   url: "/palencia/"
   side: left
   dropdown:
-  - title: "Contexto histórico"
-    url: "/palencia/contexto/"
   - title: "Biografía"
     url: "/palencia/biografia/"
   - title: "Obra"
