@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Susanna Allés Torrent"
 title: "Iniciamos el Proyecto Palencia"
-teaser: "Abrimos este espacio para compartir los materiales sobre Alfonso de Palencia..."
+teaser: "Espacio para compartir materiales sobre Alfonso de Palencia."
 categories:
   - 
 tags:

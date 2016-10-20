@@ -4,8 +4,8 @@ layout: page
 # Content
 #
 subheadline: "Susanna Allés Torrent"
-title: "Ultimas publicaciones y eventos sobre Alfonso de Palencia"
-teaser: "A lo largo de estos últimos años han visto a la luz diversas publicaciones sobre A. de Palencia y se realizaron unas jornadas en Lyon. "
+title: "Ultimas publicaciones y eventos"
+teaser: " "
 categories:
   - evento
 tags:
@@ -22,14 +22,5 @@ image:
 ---
 
 
-Alfonso de Palencia: Travaux en cours et perspectives
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+[Alfonso de Palencia: Travaux en cours et perspectives](http://ciham.ish-lyon.cnrs.fr/en/alfonso-palencia)
+ 

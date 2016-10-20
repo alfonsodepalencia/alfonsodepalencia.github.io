@@ -122,7 +122,7 @@
 
     <xsl:template match="tei:pb">
         <a href="{@facs}" target="new">
-            <img class="facs" src="../public/images/1491/1491.jpg"/><!-- Sirve de icono para el link de las imágenes -->
+            <img class="facs" src="/Vitae/public/images/facs_icon.jpg"/><!-- Sirve de icono para el link de las imágenes -->
         </a>
     </xsl:template>
 
