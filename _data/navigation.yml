@@ -16,34 +16,18 @@
   - title: "Recursos"
     url: "/palencia/recursos/"
 
-- title: "Proyectos"
-  url: "/proyectos/"
+- title: "Proyecto Vitae"
+  url: "/proyectos/trad"
   side: left
-  dropdown:
-  - title: "Traducciones"
-    url: "/proyectos/trad/"
-  - title: "Historiografía"
-    url: "/proyectos/hist/"
-  - title: "Lexicografía"
-    url: "/proyectos/lexico/"
 
 - title: "Bibliografía"
   url: "/bibliografia"
   side: left
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Archivo Blog "
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Equipo"
-  url: "/equipo/"
-  side: right
 
 - title: "Búsqueda"
   url: "/busqueda/"

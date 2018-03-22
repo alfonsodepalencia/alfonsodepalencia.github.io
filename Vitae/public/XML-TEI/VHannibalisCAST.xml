@@ -5,20 +5,21 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="cast">Vida de Aníbal, escrita por Donato Acciaiuoli y traducida por Alfonso de Palencia</title>
+        <title type="cast">Vida de Aníbal, escrita por Donato Acciaiuoli y traducida por Alfonso de
+          Palencia</title>
       </titleStmt>
       <publicationStmt>
         <p>UM <date>Junio, 2016</date></p>
       </publicationStmt>
       <sourceDesc>
-        <p></p>
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
 
-      <div xml:id="tradVH"  type="VH">
+      <div xml:id="tradVH" type="VH">
 
         <div type="title">
           <p><persName>Plutarcho</persName>
@@ -44,16 +45,16 @@
               Palencia</persName> la traduxo en romançe castellano.</p>
         </div>
         <div xml:id="e1" type="section" n="1">
-          <p><num xml:id="e1.1" corresp="#l1.1">1.1</num><pb facs="/Vitae/public/images/1491/165v.png"
-            /><cb/>[165v,a] Si se repite la memoria de la Primera Guerra Púnica que los <name
-              type="gens">carthagineses</name> fizieron con el <name type="gens">pueblo
-              romano</name>, nos occurrirán muchos capitanes que, aviendo conseguido gloria de sus
-            fazañas, dexaron a sus successores honrosa fama. <num>2</num> Mas ninguno hay de los
-            capitanes <name type="gens">carthagineses</name> que los griegos y latinos scriptores
-            más ensalçen que a <persName>Hamílcar</persName>, padre de
-            <persName>Hanníbal</persName>, renombrado <name type="surname">Barcha</name>, varón, sin
-            dubda, principal y muy enseñado en el exercito militar como <damage/>podiera aver algún
-            otro en aquella edad. <num>3</num> Aqueste, más luengamente <app>
+          <p><num xml:id="e1.1" corresp="#l1.1">1.1</num><pb
+              facs="/Vitae/public/images/1491/165v.png"/><cb/>[165v,a] Si se repite la memoria de la
+            Primera Guerra Púnica que los <name type="gens">carthagineses</name> fizieron con el
+              <name type="gens">pueblo romano</name>, nos occurrirán muchos capitanes que, aviendo
+            conseguido gloria de sus fazañas, dexaron a sus successores honrosa fama. <num>2</num>
+            Mas ninguno hay de los capitanes <name type="gens">carthagineses</name> que los griegos
+            y latinos scriptores más ensalçen que a <persName>Hamílcar</persName>, padre de
+              <persName>Hanníbal</persName>, renombrado <name type="surname">Barcha</name>, varón,
+            sin dubda, principal y muy enseñado en el exercito militar como <damage/>podiera aver
+            algún otro en aquella edad. <num>3</num> Aqueste, más luengamente <app>
               <lem>que</lem>
               <rdg>qua</rdg>
             </app> la razón quería, sostovo primero en <placeName>Sicilia</placeName> el ímpeto de
@@ -188,8 +189,8 @@
               type="gens">saguntinos</name>, los quales aunque vían cómo
               <persName>Hanníbal</persName> les estava sobre las çervizes, mas, teniendo confiança
             en la compañía del pueblo romano, pensaron que se podrían defender, y embiaron a grand
-            priessa sus embaxadores <pb facs="../public/images/1491/166v.png"/><cb/>[166v,b] a <placeName>Roma</placeName> que fiziessen saber al senado
-            en <app>
+            priessa sus embaxadores <pb facs="../public/images/1491/166v.png"/><cb/>[166v,b] a
+              <placeName>Roma</placeName> que fiziessen saber al senado en <app>
               <lem>quánto</lem>
               <rdg>quando</rdg>
             </app> grand peligro estavan sus cosas y para que pediessen ayuda contra el muy áspero
@@ -224,21 +225,21 @@
             fijo <persName>Hanníbal</persName>, y de nuevo avía cresçido aquel vando en tantos
             favores que, assí en casa como fuera de la çibdad, en todas las cosas que se avían de
             determinar se avía por soberano. <num>2</num> Era el principal del otro vando Hanno,
-            varón grave y de grand dignidad <pb facs="../public/images/1491/167r.png"/><cb/>[167r,a] en la
-            república, pero más egregio o señalado en la toga que en armas. <num>3</num> Aqueste,
-            quando los embaxadores romanos venieron a <placeName>Cartago</placeName> a querellarse
-            de la injuria de los compañeros, dizen que fue solo él, que, repugnando quasi todo el
-            senado a sus dichos, juzgava que la pleytesía se devía guardar al pueblo romano y les
-            amonestava que se guardassen de la guerra que traería extrema destruyción a su patria.
-              <num>4</num> Y si en esto los <name type="gens">carthagineses</name> quisieran mirar
-            no solamente el ánimo de <persName>Hannón</persName>, quanto considerar su consejo, y
-            antes lo quisieran oýr por auctor de la paz que de la guerra, ovieran dado más sancto
-            consejo a sý mesmos y a su cosa pública. <num>5</num> Mas seguiendo ellos para tantos
-            males el furor y cobdiçia de aquel mançebo, que después redundaron en sus cabeças,
-            dieron a ello occasión desde entonçes. <num>6</num> Por ende conviene de razón a los
-            varones sabios y muy buenos governadores de la república que en las cosas humanas miren
-            más el fin qu'el comienço, y que, primero que vengan a las armas o a la rotura de las
-            guerras, experimenten guiar todas las cosas por consejo.</p>
+            varón grave y de grand dignidad <pb facs="../public/images/1491/167r.png"/><cb/>[167r,a]
+            en la república, pero más egregio o señalado en la toga que en armas. <num>3</num>
+            Aqueste, quando los embaxadores romanos venieron a <placeName>Cartago</placeName> a
+            querellarse de la injuria de los compañeros, dizen que fue solo él, que, repugnando
+            quasi todo el senado a sus dichos, juzgava que la pleytesía se devía guardar al pueblo
+            romano y les amonestava que se guardassen de la guerra que traería extrema destruyción a
+            su patria. <num>4</num> Y si en esto los <name type="gens">carthagineses</name>
+            quisieran mirar no solamente el ánimo de <persName>Hannón</persName>, quanto considerar
+            su consejo, y antes lo quisieran oýr por auctor de la paz que de la guerra, ovieran dado
+            más sancto consejo a sý mesmos y a su cosa pública. <num>5</num> Mas seguiendo ellos
+            para tantos males el furor y cobdiçia de aquel mançebo, que después redundaron en sus
+            cabeças, dieron a ello occasión desde entonçes. <num>6</num> Por ende conviene de razón
+            a los varones sabios y muy buenos governadores de la república que en las cosas humanas
+            miren más el fin qu'el comienço, y que, primero que vengan a las armas o a la rotura de
+            las guerras, experimenten guiar todas las cosas por consejo.</p>
         </div>
         <div xml:id="e8" type="section" n="8">
           <p><num xml:id="e8.1" corresp="#l8.1">8.1</num> Los <name type="gens">saguntinos</name> en

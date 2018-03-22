@@ -7,8 +7,11 @@ teaser: ""
 permalink: "/contacto/"
 ---
 
-- [Susanna Allés Torrent][1]
-- [susanna_alles@miami.edu](mailto:susanna_alles@miami.edu)
+[Susanna Allés Torrent][1] <br/>
+Assistant Professor<br/>
+Modern Languages and Literatures<br/>
+University of Miami<br/>
+[susanna_alles@miami.edu](mailto:susanna_alles@miami.edu)
 
 
  [1]: http://susannalles.github.io
